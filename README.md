@@ -1,2 +1,46 @@
 # Go4Jobs
-ShuaShuaShua~ Keep you motivated.  Make progress everyday. Compete with each other. Get your dream job.
+ShuaShuaShua~ 
+Keep you motivated. Make progress everyday. Get your dream job.
+
+1. Please **update your progress** here **EVERYDAY** if possible, even when you are not making any progress. I'm sure seeing the other's progress will keep you motivatide and catch up soon.
+2. Feel free to commit your Leetcode submission here for record, which will reward you a nice contribution graph at your GitHub's homepage. If you do, please create your own folder and commit inside your folder.
+3. I have provided you guys a nice template for a month-view calender, and some emojies for you to record your daily progress.
+  - Feel Good? :+1:， :star:， :clap:
+  - Feel Bad?  :shit:
+  - No progress?   :zzz:
+  - Mark your start date: :triangular_flag_on_post:
+
+4. To keep this README short, please log your detailed progress by creating your own issues or markdowns within your folder, and provide a link here.
+5. Feel free to insert your calender using the alphabetical order of your name (a,b,c,d,e,f,g....x,y,z)
+
+## Jack‘s Log
+### September 2016
+| Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
+|-----	|-----	|-----	|-----	|-----	|-----	|-----	|
+|     	|     	|     	|     	| 1   	| 2   	| 3   	|
+| 4   	| 5   	| 6   	| 7   	| 8   	| 9   	| 10  	|
+| 11  	| 12  	| 13  	| 14  	| 15  	| 16  	| 17  	|
+| 18  	| 19  	| 20  :triangular_flag_on_post:	| 21  	| 22  	| 23  	| 24  	|
+| 25  	| 26  	| 27  	| 28  	| 29  	| 30  	|     	|
+
+Detailed progress: link to my log.
+
+## Jerry
+### September 2016
+| Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
+|-----	|-----	|-----	|-----	|-----	|-----	|-----	|
+|     	|     	|     	|     	| 1   	| 2   	| 3   	|
+| 4   	| 5   	| 6   	| 7   	| 8   	| 9   	| 10  	|
+| 11  	| 12  	| 13  	| 14  	| 15  	| 16  	| 17  	|
+| 18  	| 19  	| 20  	| 21  	| 22  	| 23  	| 24  	|
+| 25  	| 26  	| 27  	| 28  	| 29  	| 30  	|     	|
+
+## Jianfeng
+### September 2016
+| Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
+|-----	|-----	|-----	|-----	|-----	|-----	|-----	|
+|     	|     	|     	|     	| 1   	| 2   	| 3   	|
+| 4   	| 5   	| 6   	| 7   	| 8   	| 9   	| 10  	|
+| 11  	| 12  	| 13  	| 14  	| 15  	| 16  	| 17  	|
+| 18  	| 19  	| 20  	| 21  	| 22  	| 23  	| 24  	|
+| 25  	| 26  	| 27  	| 28  	| 29  	| 30  	|     	|
