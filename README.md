@@ -2,8 +2,8 @@
 ShuaShuaShua~ 
 Keep you motivated. Make progress everyday. Get your dream job.
 
-1. Please **update your progress** here **EVERYDAY** if possible, even when you are not making any progress. I'm sure seeing the other's progress will keep you motivatide and catch up soon.
-2. Feel free to commit your Leetcode submission here for record, which will reward you a nice contribution graph at your GitHub's homepage. If you do, please create your own folder and commit inside your folder.
+1. Please **update your progress** here **EVERYDAY** if possible, even when you are not making any progress. I'm sure seeing the other's progress will make you motivatide, and let you catch up soon.
+2. Feel free to commit your Leetcode submission here for record, which will reward you back a nice contribution graph at your GitHub's homepage. If you do, please create your own folder and commit inside your folder.
 3. I have provided you guys a nice template for a month-view calender, and some emojies for you to record your daily progress.
   - Feel Good? :+1:， :star:， :clap:
   - Feel Bad?  :shit:
@@ -12,6 +12,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 
 4. To keep this README short, please log your detailed progress by creating your own issues or markdowns within your folder, and provide a link here.
 5. Feel free to insert your calender using the alphabetical order of your name (a,b,c,d,e,f,g....x,y,z)
+6. To make sure you can make changes for this repo, please add a new issue with your GitHub ID and @ any group member.
 
 ## Jack‘s Log
 ### September 2016
