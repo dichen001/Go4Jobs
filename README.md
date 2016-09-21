@@ -21,10 +21,10 @@ Keep you motivated. Make progress everyday. Get your dream job.
 |     	|     	|     	|     	| 1   	| 2   	| 3   	|
 | 4   	| 5   	| 6   	| 7   	| 8   	| 9   	| 10  	|
 | 11  	| 12  	| 13  	| 14  	| 15  	| 16  	| 17  	|
-| 18  	| 19  	| 20  :triangular_flag_on_post:	| 21  	| 22  	| 23  	| 24  	|
+| 18  	| 19  	| 20  :triangular_flag_on_post:	+3| 21  	| 22  	| 23  	| 24  	|
 | 25  	| 26  	| 27  	| 28  	| 29  	| 30  	|     	|
 
-Detailed progress: link to my log.
+Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
 ## Jerry
 ### September 2016
