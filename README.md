@@ -25,6 +25,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 25  	| 26  	| 27  	| 28  	| 29  	| 30  	|     	|
 
 Total: 7/77 in Tag Array.
+
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
 ## Jerry
