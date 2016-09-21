@@ -2,7 +2,7 @@
 ShuaShuaShua~ 
 Keep you motivated. Make progress everyday. Get your dream job.
 
-1. Please **update your progress** here **EVERYDAY** if possible, even when you are not making any progress. I'm sure seeing the other's progress will make you motivatide, and let you catch up soon.
+1. Please **update your progress** here **EVERYDAY** if possible, even when you are not making any progress. I'm sure seeing the others‘ progress will make you motivatide, and let you catch up soon.
 2. Feel free to commit your Leetcode submission here for record, which will reward you back a nice contribution graph at your GitHub's homepage. If you do, please create your own folder and commit inside your folder.
 3. I have provided you guys a nice template for a month-view calender, and some emojies for you to record your daily progress.
   - Feel Good? :+1:， :star:， :clap:
