@@ -1,0 +1,7 @@
+vobject.egg-info/PKG-INFO
+vobject.egg-info/SOURCES.txt
+vobject.egg-info/dependency_links.txt
+vobject.egg-info/entry_points.txt
+vobject.egg-info/requires.txt
+vobject.egg-info/top_level.txt
+vobject.egg-info/zip-safe
