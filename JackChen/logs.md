@@ -39,11 +39,12 @@ Finding the fomula changes O(N^2) to O(N)
             res += [map(lambda x, y: x+y, res[-1] + [0], [0] + res[-1])]
         return res[:numRows]
 ```
-explanation: Any row can be constructed using the offset sum of the previous row. Example:
 
+explanation: Any row can be constructed using the offset sum of the previous row. Example:
+```
     1 3 3 1 0
  +  0 1 3 3 1
  =  1 4 6 4 1
-
+```
 
 ------------
