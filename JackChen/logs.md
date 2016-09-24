@@ -22,7 +22,7 @@ Finding the fomula changes O(N^2) to O(N)
 ## 09/22/16
 `+5 (26, 66, 118, 119, 121)`
 
-#### 118/119 Pascal's Triangle -- Math is Magical!
+#### 118/119. Pascal's Triangle -- Math is Magical!
 ```
 [
      [1],
@@ -48,3 +48,7 @@ explanation: Any row can be constructed using the offset sum of the previous row
 ```
 
 ------------
+## 09/22/16
+`+5 (64, 88, 162, 169, 402*)`
+
+#### 402. Remove K Digits -- Stack!
