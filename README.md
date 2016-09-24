@@ -35,7 +35,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 |     	|     	|     	|     	| 1   	| 2   	| 3   	|
 | 4   	| 5   	| 6   	| 7   	| 8   	| 9   	| 10  	|
 | 11  	| 12  	| 13  	| 14  	| 15  	| 16  	| 17  	|
-| 18  	| 19  	| 20  	| 21 :triangular_flag_on_post:(+4) 	| 22 :+1: (+5)  	| 23 :+1: (+5) 	| 24  	|
+| 18  	| 19  	| 20  	| 21 :triangular_flag_on_post:(+4) 	| 22 :+1: (+5)  	| 23 :+1: (+4) 	| 24  	|
 | 25  	| 26  	| 27  	| 28  	| 29  	| 30  	|     	|
 
 ## Jianfeng
