@@ -48,7 +48,20 @@ explanation: Any row can be constructed using the offset sum of the previous row
 ```
 
 ------------
-## 09/22/16
+## 09/23/16
 `+5 (64, 88, 162, 169, 402*)`
 
 #### 402. Remove K Digits -- Stack!
+
+------------
+## 09/24/16
+`+1 (122)`
+
+#### 122. Best Time to Buy and Sell Stock II -- Local and global maximum.
+
+------------
+## 09/25/16
+`+3 (152, 153, 289)`
+
+#### 152. Maximum Product Subarray -- Local and global maximum.
+

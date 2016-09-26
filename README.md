@@ -22,9 +22,9 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 4   	| 5   	| 6   	| 7   	| 8   	| 9   	| 10  	|
 | 11  	| 12  	| 13  	| 14  	| 15  	| 16  	| 17  	|
 | 18  	| 19  	| 20  :triangular_flag_on_post:(+3)| 21 :+1: (+4) 	| 22 :+1: (+5) 	| 23  :+1: (+5) 	| 24 :shit: (+1) 	|
-| 25  	| 26  	| 27  	| 28  	| 29  	| 30  	|     	|
+| 25  :+1: (+3) 	| 26  	| 27  	| 28  	| 29  	| 30  	|     	|
 
-Total: 17/77 in Tag Array.
+Total: 20/77 in Tag Array.
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
