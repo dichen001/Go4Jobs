@@ -65,3 +65,10 @@ explanation: Any row can be constructed using the offset sum of the previous row
 
 #### 152. Maximum Product Subarray -- Local and global maximum.
 
+------------
+## 09/26/16
+`+4 (90, 120*, 238*, 268)`
+
+#### 120. Triangle  -- DP! Bottom-Up!
+#### 238. Product of Array Except Self! -- 摇摆！摇摆！左右摇摆！
+
