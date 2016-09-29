@@ -72,3 +72,17 @@ explanation: Any row can be constructed using the offset sum of the previous row
 #### 120. Triangle  -- DP! Bottom-Up!
 #### 238. Product of Array Except Self! -- 摇摆！摇摆！左右摇摆！
 
+------------
+## 09/27/16
+:zzz::zzz::zzz::zzz::zzz::zzz:
+
+
+------------
+## 09/28/16
+`+4 (78, 79*, 80*, 229)`
+
+#### 78. Subsets. -- The solustion could be so CONCISE!
+#### 79. Word Search -- DFS. Wow!
+
+
+
