@@ -85,4 +85,12 @@ explanation: Any row can be constructed using the offset sum of the previous row
 #### 79. Word Search -- DFS. Wow!
 
 
+------------
+## 09/29/16
+`+4 (74, 75*, 105*, 106*)`
+
+#### 74. Search a 2D Matrix. -- Treat it as 1D !!!
+#### 105-106. Constract binary Tree from Inorder and Postoder/Preoder Traversal!  淫吹思婷！
+
+
 
