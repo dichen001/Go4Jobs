@@ -30,7 +30,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
 
-Total: 32/77 in Tag Array.
+Total: 39/77 in Tag: Array.
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
