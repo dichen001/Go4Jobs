@@ -92,5 +92,10 @@ explanation: Any row can be constructed using the offset sum of the previous row
 #### 74. Search a 2D Matrix. -- Treat it as 1D !!!
 #### 105-106. Constract binary Tree from Inorder and Postoder/Preoder Traversal!  淫吹思婷！
 
+------------
+## 09/30/16
+`+6 (33, 62-63*, 73*, 81, 228, )`
 
+#### 62-63. Unique paths. --- Wow! Dynamic Programming, find recurrsions. Trick for save Space. 
+#### 73. Set Matrix Zeroes. --- Constant space constrains! Directly use the matrix itself as storage!! 逸渴塞挺！
 
