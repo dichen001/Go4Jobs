@@ -19,7 +19,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 18  	| 19  	| 20  :triangular_flag_on_post:(+3)| 21 :+1: (+4) 	| 22 :+1: (+5) 	| 23  :+1: (+5) 	| 24 :shit: (+1) 	|
-| 25  :+1: (+3) 	| 26  :+1: (+4) 	| 27  :zzz:	| 28  :+1: (+4) 	| 29  :+1: (+4)	| 30  :star: (+6)	|   1 :+1: (+4) 	|
+| 25  :+1: (+3) 	| 26  :+1: (+4) 	| 27  :zzz:	| 28  :+1: (+4) 	| 29  :+1: (+4)	| 30  :star: (+6)	|   1 :zzz: (+1)![image](https://cloud.githubusercontent.com/assets/15117843/19021751/797bb634-8896-11e6-9c3c-6aeae6e1fd46.png)	|
 
 ### October 2016
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
