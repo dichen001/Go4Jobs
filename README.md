@@ -39,7 +39,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 18  	| 19  	| 20  	| 21 :triangular_flag_on_post:(+4) 	| 22 :+1: (+5)  	| 23 :+1: (+4) 	| 24  :+1: (+4)	|
-| 25 :+1: (+4)	| 26 :+1: (+5) 	| 27 :+1: (+4) 	| 28 :+1: (+4) 	| 29 :+1: (+4) 	| 30  :+1: (+4)	|   1  	|
+| 25 :+1: (+4)	| 26 :+1: (+5) 	| 27 :+1: (+4) 	| 28 :+1: (+4) 	| 29 :+1: (+4) 	| 30  :+1: (+4)	|   1 :zzz:欢度国庆 	|
 
 ### October 2016
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
