@@ -55,12 +55,12 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 ### September 2016
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
-| 25 :triangular_flag_on_post:(+7)  	| 26 :+1:（+6）  	| 27 :zzz: 	| 28 :star: (+11)  	| 29 :+1: (+5)  	| 30 :+1:（+4） 	|   1  :+1:（+4）	|
+| 25 :triangular_flag_on_post:(+7)  	| 26 :+1:（+6）  	| 27 :zzz: 	| 28 :star: (+11)  	| 29 :+1: (+5)  	| 30 :shit:  	|   1  :+1:（+4）	|
 
 ### October 2016
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
-| 2   	| 3   	| 4   	| 5   	| 6   	| 7   	| 8   	|
+| 2:+1:（+4）   	| 3   	| 4   	| 5   	| 6   	| 7   	| 8   	|
 | 9   	| 10  	| 11  	| 12  	| 13  	| 14  	| 15  	|
 | 16  	| 17  	| 18  	| 19  	| 20  	| 21  	| 22  	|
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
