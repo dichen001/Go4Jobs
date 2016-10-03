@@ -109,3 +109,8 @@ explanation: Any row can be constructed using the offset sum of the previous row
 ## 10/02/16
 `+1 (53)`
 
+------------
+## 10/03/16
+`+3 (39, 50, 216)`
+
+All about Combination Sum I,II,III.
