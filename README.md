@@ -24,13 +24,13 @@ Keep you motivated. Make progress everyday. Get your dream job.
 ### October 2016
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
-| 2   	| 3   	| 4   	| 5   	| 6   	| 7   	| 8   	|
+| 2 :+zzz: (+1)  	| 3   	| 4   	| 5   	| 6   	| 7   	| 8   	|
 | 9   	| 10  	| 11  	| 12  	| 13  	| 14  	| 15  	|
 | 16  	| 17  	| 18  	| 19  	| 20  	| 21  	| 22  	|
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
 
-Total: 43/77 in Tag: Array.
+Total: 44/77 in Tag: Array.
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 

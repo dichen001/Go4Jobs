@@ -99,3 +99,13 @@ explanation: Any row can be constructed using the offset sum of the previous row
 #### 62-63. Unique paths. --- Wow! Dynamic Programming, find recurrsions. Trick for save Space. 
 #### 73. Set Matrix Zeroes. --- Constant space constrains! Directly use the matrix itself as storage!! 逸渴塞挺！
 
+
+
+------------
+## 10/01/16
+`+1 (209)`
+
+------------
+## 10/02/16
+`+1 (53)`
+
