@@ -114,3 +114,12 @@ explanation: Any row can be constructed using the offset sum of the previous row
 `+3 (39, 50, 216)`
 
 All about Combination Sum I,II,III.
+
+------------
+## 10/04/16
+`+4 (48, 54, 59, 167)`
+
+48, 54, 59 are all about matrix.
+#### 48. Rotate Imate.  --- Pay attention to the iteration range for transpose(`i in range(n); j in range(i+1,n)` and reverse(`i in range(n); j in range(n/2)`).
+
+
