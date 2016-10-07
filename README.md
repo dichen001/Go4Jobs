@@ -30,9 +30,12 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
 
-Array: Easy, Medium. 55/77
+Array: 55/77 (Easy, Medium)
+
 Hash Table: 4/47
+
 Total: 59/411.
+
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
 ## Jerry
