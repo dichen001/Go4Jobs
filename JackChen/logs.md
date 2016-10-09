@@ -129,3 +129,10 @@ All about Combination Sum I,II,III.
 #### n-Sum Question -- 1,15,16,18 are all about the same idea.
 Tansform N-sum into 2-sum, then use bi-direction search on sorted array, which is O(n)time and O(1) space.
 
+
+------------
+## 10/09/16
+`+4 (22, 24, 299, 409)`
+#### Count Primes
+O(N*log(log(N))) time, O(N) space. 
+
