@@ -30,9 +30,9 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
 
-Array: 52/77 (Easy: ✓  Medium: ✓)
+Array: 52/77 (Easy: ✓  | Medium: ✓)
 
-Hash Table: 20/47 (Easy:✓、✓ )
+Hash Table: 20/47 (Easy:✓ )
 
 Total: 72/411.
 
