@@ -30,7 +30,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
 
-Total: 72/411 .-*.*-. Array: 52/77 (Easy, Medium: ✓) .-*.*-. Hash Table: 20/47 (Easy:✓ )
+Total: 72/411 _.-'-._ Array: 52/77 (Easy, Medium: ✓) _.-'-._ Hash Table: 20/47 (Easy:✓ )
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
