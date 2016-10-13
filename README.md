@@ -45,7 +45,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 2 :+1: (+4) | 3  :star:(+10) 	| 4  :+1: (+7) 	| 5 :zzz:TA:school: | 6  :+1: (+8)  	| 7  :+1: (+4) 	| 8  :zzz:Fall Break:maple_leaf: |
-| 9 :+1: (+4) | 10 :+1: (+5) 	| 11  	| 12  	| 13  	| 14  	| 15  	|
+| 9 :+1: (+4) | 10 :+1: (+5) 	| 11 :zzz:MidTerm:pencil: | 12 :+1: (+8)	| 13  	| 14  	| 15  	|
 | 16  	| 17  	| 18  	| 19  	| 20  	| 21  	| 22  	|
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
