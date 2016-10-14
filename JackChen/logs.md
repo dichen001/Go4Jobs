@@ -136,3 +136,14 @@ Tansform N-sum into 2-sum, then use bi-direction search on sorted array, which i
 #### Count Primes
 O(N*log(log(N))) time, O(N) space. 
 
+------------
+## 10/13/16
+`+4 (94, 166, 347)`
+#### Binary Tree Inorder Traversal
+Should familar with recursive and iterative solusions.
+#### Top K Frequent Elements
+Application of Bucket Sort. When n number in range(n). Use O(n) space to make O(nlog(n)) time to O(n) time.
+
+
+
+
