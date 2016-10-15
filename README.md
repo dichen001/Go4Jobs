@@ -25,12 +25,12 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 2 :+zzz: (+1)  	| 3  :+1: (+3)  	| 4  :+1: (+4) 	| 5 :+1: (+6) 	| 6  :+1: (+5) 	| 7  :fallen_leaf: 大雾山 | 8  :+1: (+4)  	|
-| 9 :+1: (+4)   	| 10  :+1: (+4)  	| 11  :zzz: (+1)	| 12  :zzz:	| 13  :+1: (+3)  	| 14  	| 15  	|
+| 9 :+1: (+4)   	| 10  :+1: (+4)  	| 11  :zzz: (+1)	| 12  :zzz:	| 13  :+1: (+3)  	| 14 :+1: (+7) 	| 15  	|
 | 16  	| 17  	| 18  	| 19  	| 20  	| 21  	| 22  	|
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
 
-`Total:` 75/411 `Array:` 52/77 (Easy, Medium: ✓)  `Hash Table`: 23/47 (Easy:✓ Medium: ✓)
+`Total:` 82/411 `Array:` 52/77 (Easy, Medium: ✓)  `Hash Table`: 23/47 (Easy:✓ Medium: ✓) `Linked List`: 8/26
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
