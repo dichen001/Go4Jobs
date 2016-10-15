@@ -72,7 +72,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 2   	| 3   	| 4   	| 5   	| 6   	| 7 :triangular_flag_on_post: (+2)  	| 8 :+1: (+3)  	|
-| 9 :+1: (+2):Travel:  	| 10  	| 11  	| 12  	| 13  	| 14  	| 15  	|
+| 9 :+1: (+2):Travel:  	| 10  	| 11  	| 12  	| 13 :shit: Forget update for 4 days 	| 14:+1:(+2)  	| 15  	|
 | 16  	| 17  	| 18  	| 19  	| 20  	| 21  	| 22  	|
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
