@@ -144,6 +144,12 @@ Should familar with recursive and iterative solusions.
 #### Top K Frequent Elements
 Application of Bucket Sort. When n number in range(n). Use O(n) space to make O(nlog(n)) time to O(n) time.
 
+------------
+## 10/14/16
+`+8 (19, 21, 24, 83, 141, 206, 234, 237)`
+#### Remove Nth Node From End of List
+2 pointers. faster one move N time first. Then move slow and fast together till fast reach end.
+
 
 
 
