@@ -151,5 +151,9 @@ Application of Bucket Sort. When n number in range(n). Use O(n) space to make O(
 2 pointers. faster one move N time first. Then move slow and fast together till fast reach end.
 
 
+------------
+## 10/15/16
+`+6 (83, 92**, 142, 143, 160*, 203)`
+
 
 

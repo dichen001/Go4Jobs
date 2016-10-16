@@ -7,10 +7,10 @@ Given 1->1->2->3->3, return 1->2->3.
 """
 
 # Definition for singly-linked list.
-# class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
 class Solution(object):
     def deleteDuplicates(self, head):
@@ -25,3 +25,13 @@ class Solution(object):
             else:
                 head = head.next
         return rhead
+
+s = Solution()
+h = ListNode(1)
+h.next = ListNode(2)
+h.next.next = ListNode(3)
+
+h = ListNode(2)
+h.next = ListNode(3)
+
+r = s.swapPairs(h)
