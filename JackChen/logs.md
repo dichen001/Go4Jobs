@@ -164,7 +164,7 @@ Application of Bucket Sort. When n number in range(n). Use O(n) space to make O(
 
 ------------
 ## 10/18/17
-`+6 (7, 8, 9, 172, 263, 400)`
+`+7 (7, 8, 9, 172, 263, 326, 400)`
 
 
 
