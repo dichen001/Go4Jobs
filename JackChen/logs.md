@@ -150,7 +150,6 @@ Application of Bucket Sort. When n number in range(n). Use O(n) space to make O(
 #### Remove Nth Node From End of List
 2 pointers. faster one move N time first. Then move slow and fast together till fast reach end.
 
-
 ------------
 ## 10/15/16
 `+6 (83, 92**, 142, 143, 160*, 203)`
@@ -160,8 +159,12 @@ Application of Bucket Sort. When n number in range(n). Use O(n) space to make O(
 `+6 (2, 61, 82, 86, 109*, 328)`
 
 ------------
-## 10/16/17
+## 10/17/17
 `+6 (13, 147*，148*, 171, 258, 415)`
+
+------------
+## 10/18/17
+`+6 (7, 8, 9, 172, 263, 400)`
 
 
 
