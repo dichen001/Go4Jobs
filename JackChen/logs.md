@@ -170,6 +170,10 @@ Application of Bucket Sort. When n number in range(n). Use O(n) space to make O(
 ## 10/19/16
 `+5 (12, 67, 168, 223, 231)`
 
+------------
+## 10/20/16
+`+4 (43, 60, 264, 397)`
+
 
 
 
