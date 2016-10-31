@@ -1,4 +1,6 @@
 # Go4Jobs
+> “靡不有初，鲜克有终。”
+
 ShuaShuaShua~ 
 Keep you motivated. Make progress everyday. Get your dream job.
 
@@ -19,7 +21,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 18  	| 19  	| 20  :triangular_flag_on_post:(+3)| 21 :+1: (+4) 	| 22 :+1: (+5) 	| 23  :+1: (+5) 	| 24 :shit: (+1) 	|
-| 25  :+1: (+3) 	| 26  :+1: (+4) 	| 27  :zzz:	| 28  :+1: (+4) 	| 29  :+1: (+4)	| 30  :star: (+6)	|   1 :zzz: (+1)![image](https://cloud.githubusercontent.com/assets/15117843/19021751/797bb634-8896-11e6-9c3c-6aeae6e1fd46.png)	|
+| 25  :+1: (+3) 	| 26  :+1: (+4) 	| 27  :zzz:	| 28  :+1: (+4) 	| 29  :+1: (+4)	| 30  :star: (+6)	|   1 :zzz: :cn:(+1)国庆	|
 
 ### 10/2016
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
@@ -40,8 +42,8 @@ Keep you motivated. Make progress everyday. Get your dream job.
 
 `Total:` 121/421 `Array:` 52/77 (Easy, Medium: ✓)  `Hash Table`: 23/47 (Easy:✓ Medium: ✓) `Linked List`: 22/26 (Easy:✓, Medium:✓) `Math`: 31/54 (Easy: ✓， Medium:...)
 
-
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
+
 
 ## Jerry
 ### 09/2016
@@ -67,11 +69,13 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  |     |     |     |
 
+
 ## Jianfeng
 ### 09/2016
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 25 :triangular_flag_on_post:(+7)  	| 26 :+1:（+6）  	| 27 :zzz: 	| 28 :star: (+11)  	| 29 :+1: (+5)  	| 30 :shit:  	|   1  :+1:（+4）	|
+
 ### 10/2016 `感想／总结： ` 
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
@@ -79,6 +83,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | 9  觉 	| 10 不  	| 11  爱	| 12 :shit: (+4) 	| 13 (+3)  	| 14 devops 	| 15 devops  	|
 | 16 devops 	| 17 :+1:(+3)  	| 18 :shit:(+2) 	| 19 :+1:(+10) 	| 20  :+1:(+6) 	| 21 :+1:(+9)	| 22 :+1:(+12) 	|
 | 23 :-1:(+4)  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
+
 ### 11/2016 `Goal: `
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
@@ -87,6 +92,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  |     |     |     |
+
 
 ## Joe
 ### 10/2016 `感想／总结： ` 
@@ -97,6 +103,16 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | 16  	| 17  	| 18  	| 19  	| 20  	| 21  	| 22  	|
 | 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 | 30  	| 31  	|     	|     	|     	|     	|      	|
+
+### 11/2016 `Goal: `
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+| 30  | 31  | 1   | 2   | 3   | 4   | 5   |
+| 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| 13  | 14  | 15  | 16  | 17  | 18  | 19  |
+| 20  | 21  | 22  | 23  | 24  | 25  | 26  |
+| 27  | 28  | 29  | 30  |     |     |     |
+
 
 ## Ye
 ### 10/2016 `感想／总结： ` 
