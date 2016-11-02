@@ -15,6 +15,11 @@ Keep you motivated. Make progress everyday. Get your dream job.
 4. To keep this README short, please log your detailed progress by creating your own issues or markdowns within your folder, and provide a link here.
 5. Feel free to insert your calender using the alphabetical order of your name (a,b,c,d,e,f,g....x,y,z)
 6. To make sure you can make changes for this repo, please add a new issue with your GitHub ID and @ any group member.
+7. To review foundamental programming knowledge and improve you coding skills, check this reference book:
+<p align="center">
+[__Cracking the Coding Interview__](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1478062845&sr=8-1&keywords=cracking+the+coding+interview)<br>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51F6Lwyq5JL._SX348_BO1,204,203,200_.jpg" height="160" width="100">
+</p>
 
 ## Jack‘s Log
 ### 09/2016
@@ -57,13 +62,13 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 2 :+1: (+4) | 3  :star:(+10) 	| 4  :+1: (+7) 	| 5 :zzz:TA:school: | 6  :+1: (+8)  	| 7  :+1: (+4) 	| 8  :zzz:Fall Break:maple_leaf: |
 | 9 :+1: (+4) | 10 :+1: (+5) 	| 11 :zzz:MidTerm:pencil: | 12 :+1: (+8)	| 13 :zzz:Social:busts_in_silhouette: 	| 14  :star:(+14)	| 15  :shit: (+3)	|
-| 16 :+1:(+5) 	| 17 :+1:(+4) 	| 18 :+1:(+4)  	| 19 :+1:(+4) 	| 20 :shit:(+3) 	| 21  	| 22  	|
-| 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
+| 16 :+1:(+5) 	| 17 :+1:(+4) 	| 18 :+1:(+4)  	| 19 :+1:(+4) 	| 20 :shit:(+3) 	| 21 :zzz: 	| 22  :zzz:Party:dancer:	|
+| 23 :zzz: 	| 24 :book:Offline Training	| 25 :book:Offline Training	| 26 :book:Offline Training	| 27  :book:Offline Training	| 28 :book:Offline Training	| 29 :zzz:  	|
 
 ### 11/2016 `Goal: `
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
-| 30  | 31  | 1   | 2   | 3   | 4   | 5   |
+| 30 :zzz: | 31 :book:Offline Training | 1 :+1: (+5)  | 2   | 3   | 4   | 5   |
 | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
@@ -124,18 +129,6 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 30  | 31  | 1   | 2   | 3   | 4   | 5   |
-| 6   | 7   | 8   | 9   | 10  | 11  | 12  |
-| 13  | 14  | 15  | 16  | 17  | 18  | 19  |
-| 20  | 21  | 22  | 23  | 24  | 25  | 26  |
-| 27  | 28  | 29  | 30  |     |     |     |
-
-
-
-## Louis
-### 11/2016 `Goal: 刚刚开始`
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-|-----|-----|-----|-----|-----|-----|-----|
-| 30  | 31  | 1   | 2（题还没开始刷）   | 3   | 4   | 5   |
 | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
