@@ -89,7 +89,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | 16 devops 	| 17 :+1:(+3)  	| 18 :shit:(+2) 	| 19 :+1:(+10) 	| 20  :+1:(+6) 	| 21 :+1:(+9)	| 22 :+1:(+12) 	|
 | 23 :-1:(+4)  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
 
-### 11/2016 `Goal: `
+### 11/2016 `Goal: 200/445`
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 30  | 31  | 1 :+1: (+6)  | 2   | 3   | 4   | 5   |
@@ -98,7 +98,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  |     |     |     |
 
-
+`113/445`
 ## Joe
 ### 10/2016 `感想／总结： ` 
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
