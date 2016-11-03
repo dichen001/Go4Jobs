@@ -22,7 +22,7 @@ class Solution(object):
         U = [1]
         b2, b3, b5 = 0, 0, 0
         while len(U) < n :
-            next = min(U[b2]*2, U[b3]*3, U[b5]*5,)
+            next = min(U[b2]*2, U[b3]*3, U[b5]*5)
             if next == U[b2]*2:
                 b2 += 1
             if next == U[b3]*3:

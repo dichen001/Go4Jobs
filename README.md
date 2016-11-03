@@ -39,13 +39,13 @@ Keep you motivated. Make progress everyday. Get your dream job.
 ###  11/2016  `Goal：150+, 做不完直播吃翔`:shit:
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
-| 30 :shit: 中 | 31 :+1: +4 | 1  :+1: +5  | 2   | 3   | 4   | 5   |
+| 30 :shit: 中 | 31 :+1: +4 | 1  :+1: +5  | 2 :+1: (+5)  | 3   | 4   | 5   |
 | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  |     |     |     |
 
-`Total:` 126/421 `Array:` 52/77 (Easy, Medium: ✓)  `Hash Table`: 23/47 (Easy:✓ Medium: ✓) `Linked List`: 22/26 (Easy:✓, Medium:✓) `Math`: 36/54 (Easy: ✓， Medium:...)
+`Total:` 131/421 `Array:` 52/77 (Easy, Medium: ✓)  `Hash Table`: 23/47 (Easy:✓ Medium: ✓) `Linked List`: 22/26 (Easy:✓, Medium:✓) `Math`: 41/54 (Easy: ✓， Medium:✓)
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 

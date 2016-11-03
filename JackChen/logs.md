@@ -175,5 +175,28 @@ Application of Bucket Sort. When n number in range(n). Use O(n) space to make O(
 `+4 (43, 60, 264, 397)`
 
 
+------------
+## 11/01/16
+`69. Sqrt(x)`
+```
+# newton's methods:
+    # f(x) = r^2 - x = 0
+    # x(i+1) = x(i) - f(x(i))/f'(x(i))
+```
+
+
+------------
+## 11/02/16
+
+`365. Water and Jug Problem`
+```
+GCD - Greatest Common Divisor
+def GCD(x, y):
+    while y != 0:
+        t = y
+        y = x % y
+        x = t
+    return x
+```
 
 
