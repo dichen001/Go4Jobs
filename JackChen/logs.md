@@ -200,3 +200,8 @@ def GCD(x, y):
 ```
 
 
+------------
+## 11/05/16
+How you see a problem matters. Note to change a direction of view.
+`5*, 91*`
+
