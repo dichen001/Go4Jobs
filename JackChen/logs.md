@@ -205,3 +205,6 @@ def GCD(x, y):
 How you see a problem matters. Note to change a direction of view.
 `5*, 91*`
 
+------------
+## 11/06/16
+collections.defaultdict(set)
