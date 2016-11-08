@@ -40,14 +40,14 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 30 :shit: 中 | 31 :+1: +4 | 1  :+1: +5  | 2 :+1: (+5)  | 3  :+1: (+7)  | 4 :+1: (+8)  | 5  :+1: (+6) |
-| 6  :+1: (+5)  | 7   | 8   | 9   | 10  | 11  | 12  |
+| 6  :+1: (+5)  | 7  :+1: (+5) | 8   | 9   | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  |     |     |     |
 
-`Total:` 157/421 `Array:` 55/77  `Hash Table`: 23/47  `Linked List`: 22/26 `Math`: 41/54 `Two Pointers:` 25/32 `String` 28/52
+`Total:` 162/421 `Array:` 60/77  `Hash Table`: 23/47  `Linked List`: 22/26 `Math`: 41/54 `Two Pointers:` 25/32 `String` 28/52
 
-`HARD:` 5/92
+`HARD:` 10/92
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 

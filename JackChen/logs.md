@@ -208,3 +208,8 @@ How you see a problem matters. Note to change a direction of view.
 ------------
 ## 11/06/16
 collections.defaultdict(set)
+
+
+------------
+## 11/07/16
+做 Hard 太尼玛酸爽啦
