@@ -45,9 +45,9 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  |     |     |     |
 
-`Total:` 167/421 `Array:` 65/77  `Hash Table`: 23/47  `Linked List`: 22/26 `Math`: 41/54 `Two Pointers:` 25/32 `String` 28/52
+`Total:` 168/421 `Array:` 66/79  `Hash Table`: 23/47  `Linked List`: 22/26 `Math`: 41/54 `Two Pointers:` 25/32 `String` 28/52
 
-`HARD:` 15/92
+`HARD:` 16/92
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
