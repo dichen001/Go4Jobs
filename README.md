@@ -101,6 +101,7 @@ Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master
 | 27  | 28  | 29  | 30  |     |     |     |
 
 `149/445`
+[process](https://github.com/Ginfung/Leetcode/blob/master/README.md)
 ## Joe
 ### 10/2016 `感想／总结： ` 
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
