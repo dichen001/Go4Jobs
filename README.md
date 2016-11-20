@@ -36,18 +36,18 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 16  :+1: (+6) 	| 17 :+1: (+6)  	| 18  :+1: (+7) 	| 19  :+1: (+5) 	| 20  :+1: (+4) 	| 21 :shit: 造轮子	| 22 💩 浪去了 	|
 | 23  :shit: 备考	| 24 :shit: 懵 	| 25 :shit: 逼 	| 26  :shit: 持	| 27 :shit: 续	| 28  :shit: 懵	| 29 :shit: 逼 	|
 
-###  11/2016  `Goal：150+, 做不完直播吃翔`:shit:
+###  11/2016  `Goal：150+/Total, 做不完直播吃翔`:shit:
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 30 :shit: 中 | 31 :+1: +4 | 1  :+1: +5  | 2 :+1: (+5)  | 3  :+1: (+7)  | 4 :+1: (+8)  | 5  :+1: (+6) |
 | 6  :+1: (+5)  | 7  :+1: (+5) | 8 :us: 看川普红  | 9  :+1: (+5)  | 10 :relieved: (+2) | 11 :relieved: (+2) | 12  :shit:  (+1) |frdasffadsdasfadsfasdfdfsafafa
-| 13  :shit:  (+1) | 14 :shit: 实验跪了  | 15 :shit: +3 | 16  :+1: (+5)  | 17 :shit:  | 18 :+1: (+5) | 19  |
+| 13  :shit:  (+1) | 14 :shit: 实验跪了  | 15 :shit: +3 | 16  :+1: (+5)  | 17 :shit:  | 18 :+1: (+5) | 19 :shit:  (+3) |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  |     |     |     |
 
-`Total:` 186/421 `Array:` 68/79  `Hash Table`: 33/51  `Linked List`: 24/27 `Math`: 47/55 `Two Pointers:` 29/32 `String` 39/53
+`Total:` 189/421 `Array:` 68/79  `Hash Table`: 33/51  `Linked List`: 24/27 `Math`: 47/55 `Two Pointers:` 29/32 `String` 42/53
 
-`HARD:` 35/92
+`HARD:` 38/92
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
