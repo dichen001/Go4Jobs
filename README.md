@@ -45,10 +45,10 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 20 :shit: | 21 :shit: | 22  :shit: | 23 :shit: +1 | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  |     |     |     |
 
-`Total:` 190/421 `Array:` 68/79  `Hash Table`: 33/51  `Linked List`: 24/27 `Math`: 47/55 `Two Pointers:` 29/32 `String` 42/53 
-`Divide and Conquer:` 5/12
+`Total:` 194/421 `Array:` 68/79  `Hash Table`: 33/51  `Linked List`: 24/27 `Math`: 47/55 `Two Pointers:` 29/32 `String` 42/53 
+`Divide and Conquer:` 9/12
 
-`HARD:` 39/92
+`HARD:` 43/92
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
