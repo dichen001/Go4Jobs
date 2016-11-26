@@ -36,7 +36,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 16  :+1: (+6) 	| 17 :+1: (+6)  	| 18  :+1: (+7) 	| 19  :+1: (+5) 	| 20  :+1: (+4) 	| 21 :shit: 造轮子	| 22 💩 浪去了 	|
 | 23  :shit: 备考	| 24 :shit: 懵 	| 25 :shit: 逼 	| 26  :shit: 持	| 27 :shit: 续	| 28  :shit: 懵	| 29 :shit: 逼 	|
 
-###  11/2016  `Goal：200+/Total, 50%+/hard, 做不完直播吃翔`:shit:
+###  11/2016  `Goal：200+/Total, 50%+/Hard, 做不完直播吃翔`:shit:
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 30 :shit: 中 | 31 :+1: +4 | 1  :+1: +5  | 2 :+1: (+5)  | 3  :+1: (+7)  | 4 :+1: (+8)  | 5  :+1: (+6) |
@@ -48,7 +48,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 `Array:` 68/79  `Hash Table:` 33/52  `Linked List:` 24/27 `Math:` 47/56 `Two Pointers:` 29/32 `String:` 42/53 
 `Divide and Conquer:` 12/12 `Binary Search:`  25/36 `Dynamic Programming:` 29/58
 
-`Total:` **201/421**  `HARD:` **47/92**
+**`Total:` 201/421  `Hard:` 47/92**
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
