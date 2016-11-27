@@ -43,12 +43,12 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 6  :+1: (+5)  | 7  :+1: (+5) | 8 :us: 看川普红  | 9  :+1: (+5)  | 10 :relieved: (+2) | 11 :relieved: (+2) | 12  :shit:  (+1) |frdasffadsdasfadsfasdfdfsafafa
 | 13  :shit:  (+1) | 14 :shit: 实验跪了  | 15 :shit: (+3) | 16  :+1: (+5)  | 17 :shit: 忙 | 18 :+1: (+5) | 19 :shit:  (+3) |
 | 20 :shit: 赶 | 21 :shit: 作 | 22  :shit: 页 | 23 :shit: (+1) | 24 :+1: (+4)  | 25  :+1: (+4) | 26 :+1: (+5) |
-| 27  | 28  | 29  | 30  |     |     |     |
+| 27 :+1: (+3) | 28  | 29  | 30  |     |     |     |
 
 `Array:` 68/79  `Hash Table:` 33/52  `Linked List:` 24/27 `Math:` 47/56 `Two Pointers:` 29/32 `String:` 42/53 
-`Divide and Conquer:` 12/12 `Binary Search:`  25/36 `Dynamic Programming:` 31/58
+`Divide and Conquer:` 12/12 `Binary Search:`  25/36 `Dynamic Programming:` 33/58
 
-**`Total:` 203/421  `Hard:` 49/92**
+**`Total:` 206/421  `Hard:` 51/92**
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
