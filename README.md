@@ -46,9 +46,9 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 27 :+1: (+5) | 28  | 29  | 30  |     |     |     |
 
 `Array:` 68/79  `Hash Table:` 33/52  `Linked List:` 24/27 `Math:` 47/56 `Two Pointers:` 29/32 `String:` 42/53 
-`Divide and Conquer:` 12/12 `Binary Search:`  25/36 `Dynamic Programming:` 35/58
+`Divide and Conquer:` 12/12 `Binary Search:`  25/36 `Dynamic Programming:` 36/58
 
-**`Total:` 208/421  `Hard:` 52/92**
+**`Total:` 210/421  `Hard:` 53/92**
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
