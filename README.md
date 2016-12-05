@@ -45,7 +45,16 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 20 :shit: 赶 | 21 :shit: 作 | 22  :shit: 页 | 23 :shit: (+1) | 24 :+1: (+4)  | 25  :+1: (+4) | 26 :+1: (+5) |
 
 
-###  12/2016  `Goal:` <img src="https://onelocal.com/assets/icon-google.png" height="30" width="60">
+###  12/2016  `Goal:` ![Google][icon1]
+<h3>12/2016  Goal: <img src="https://onelocal.com/assets/icon-google.png" height="30" width="60"></h3>
+
+<h3>12/2016  <code>Goal:</code> <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-200x200.7714256da16f.png" height="60" width="60"></h3>
+
+[icon1]: https://s3-eu-west-1.amazonaws.com/refonte/home-agorize/80x80/google.jpg  "Google"
+
+
+
+
 
 | Sun. | Mon. | Tue. | Wed. | Thu. | Fri. | Sat. |
 |------|------|------|------|------|------|------|
