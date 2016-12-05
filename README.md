@@ -45,7 +45,8 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 20 :shit: 赶 | 21 :shit: 作 | 22  :shit: 页 | 23 :shit: (+1) | 24 :+1: (+4)  | 25  :+1: (+4) | 26 :+1: (+5) |
 
 
-###  12/2016  `Goal:` ![Google][https://onelocal.com/assets/icon-google.png]
+###  12/2016  `Goal:` <p align="center"><img src="https://onelocal.com/assets/icon-google.png"></p>
+
 | Sun. | Mon. | Tue. | Wed. | Thu. | Fri. | Sat. |
 |------|------|------|------|------|------|------|
 | 27 :+1: (+5) | 28 :shit: (+1)  | 29 :shit: (+1)  | 30 :birthday:+:100:考试 |  :shit: 期   |  :shit: 末   |  :shit: 复   |
