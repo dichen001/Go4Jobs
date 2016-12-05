@@ -45,7 +45,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 20 :shit: 赶 | 21 :shit: 作 | 22  :shit: 页 | 23 :shit: (+1) | 24 :+1: (+4)  | 25  :+1: (+4) | 26 :+1: (+5) |
 
 
-<h3>12/2016  <code>Goal:</code> <img src="/JackChen/Google.png" height="25" width="75"></h3>
+<h3>12/2016  <code>Goal:</code> <img src="/JackChen/Google.png" height="22" width="66"></h3>
 
 | Sun. | Mon. | Tue. | Wed. | Thu. | Fri. | Sat. |
 |------|------|------|------|------|------|------|
@@ -58,7 +58,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 `Array:` 68/79  `Hash Table:` 33/52  `Linked List:` 24/27 `Math:` 47/56 `Two Pointers:` 29/32 `String:` 42/53 
 `Divide and Conquer:` 12/12 `Binary Search:`  25/36 `Dynamic Programming:` 36/58 `Backtracking:` 18/34
 
-**`Total:` 211/421  `Hard:` 54/92 `Google:` 50/145**
+**`Total:` 212/421  `Hard:` 54/92 `Google:` 50/145**
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
