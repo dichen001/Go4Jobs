@@ -43,12 +43,22 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 6  :+1: (+5)  | 7  :+1: (+5) | 8 :us: 看川普红  | 9  :+1: (+5)  | 10 :relieved: (+2) | 11 :relieved: (+2) | 12  :shit:  (+1) |frdasffadsdasfadsfasdfdfsafafa
 | 13  :shit:  (+1) | 14 :shit: 实验跪了  | 15 :shit: (+3) | 16  :+1: (+5)  | 17 :shit: 忙 | 18 :+1: (+5) | 19 :shit:  (+3) |
 | 20 :shit: 赶 | 21 :shit: 作 | 22  :shit: 页 | 23 :shit: (+1) | 24 :+1: (+4)  | 25  :+1: (+4) | 26 :+1: (+5) |
-| 27 :+1: (+5) | 28 :shit: (+1)  | 29 :shit: (+1)  | 30 :birthday:+:100:考试 |     |     |     |
+
+
+###  12/2016  `Goal：: ![Google][https://onelocal.com/assets/icon-google.png]
+| Sun. | Mon. | Tue. | Wed. | Thu. | Fri. | Sat. |
+|------|------|------|------|------|------|------|
+| 27 :+1: (+5) | 28 :shit: (+1)  | 29 :shit: (+1)  | 30 :birthday:+:100:考试 |  :shit: 期   |  :shit: 末   |  :shit: 复   |
+| 4  :shit: (+1) 习  | 5    | 6    | 7    | 8    | 9    | 10   |
+| 11   | 12   | 13   | 14   | 15   | 16   | 17   |
+| 18   | 19   | 20   | 21   | 22   | 23   | 24   |
+| 25   | 26   | 27   | 28   | 29   | 30   | 31   |
 
 `Array:` 68/79  `Hash Table:` 33/52  `Linked List:` 24/27 `Math:` 47/56 `Two Pointers:` 29/32 `String:` 42/53 
 `Divide and Conquer:` 12/12 `Binary Search:`  25/36 `Dynamic Programming:` 36/58 `Backtracking:` 18/34
 
-**`Total:` 211/421  `Hard:` 54/92**
+**`Total:` 211/421  `Hard:` 54/92 `Google:` 50/145**
+
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
