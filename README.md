@@ -47,7 +47,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 
 ###  12/2016  `Goal:` ![Google](/JackChen/Google.png?raw=true "Optional Title")
 
-<h3>12/2016  <code>Goal:</code> <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-200x200.7714256da16f.png" height="20" width="60"></h3>
+<h3>12/2016  <code>Goal:</code> <img src="/JackChen/Google.png" height="25" width="75"></h3>
 
 
 
