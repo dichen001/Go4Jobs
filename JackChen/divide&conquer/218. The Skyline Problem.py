@@ -6,29 +6,24 @@ class Solution(object):
         :type buildings: List[List[int]]
         :rtype: List[List[int]]
         """
-        # add all border points
-        points, results = [], []
-        mem = defaultdict(int)
-        for b in buildings:
-            points.append((b[0], -b[2]))
-            points.append((b[1], b[2]))
-        points.sort()
-        q = [0]
-        prev = 0
-        for p in points:
-            if p[1] < 0:
-                heapq.heappush(q, p[1])
-                mem[p[1]] += 1
+        livB, skyline = [], []
+        i, n = 0, len(buildings)
+        while i<n or livB:
+            if not livB or (i<n and -livB[0][1] >= buildings[i][0]):
+                x = buildings[i][0]
+                while i<n and buildings[i][0] == x:
+                    heapq.heappush(livB, (-buildings[i][2], -buildings[i][1]))
+                    i += 1
             else:
-                mem[p[1]] -= 1
-            cur = heapq.heappop(q)
-            while mem[cur] == 0:
-                cur = heapq.heappop()
-            heapq.heappush(q,cur)
-            if prev != cur:
-                results.append([p[0], -cur])
-                prev = cur
-        return results
+                x = -livB[0][1]
+                while livB and -livB[0][1] <= x:
+                    heapq.heappop(livB)
+            cur_h = -livB[0][0] if livB else 0
+            if not skyline or cur_h != skyline[-1][1]:
+                skyline.append([x, cur_h])
+        return skyline
+
+
 
 s = Solution()
 s.getSkyline([[0,2,3],[2,5,3]])
