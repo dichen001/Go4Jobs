@@ -15,6 +15,24 @@ class Solution(object):
         :type words: List[str]
         :rtype: List[int]
         """
+        m, n, l = len(s), len(words), len(words[0])
+        need0, missing = {}, n
+        for w in words:
+            need0[w] = need0.get(w, 0) + 1
+        ans = []
+        for i in range(m - n*l + 1):
+            found, need = 0, need0.copy()
+            while found < n:
+                w = s[i+found*l:i+(found+1)*l]
+                if not need.get(w) or need[w] == 0:
+                    break
+                need[w] -= 1
+                found += 1
+            if found == n:
+                ans += [i]
+        return ans
+
+
         result = []
         if not words or len(s) < len(words) * len(words[0]):
             return result
@@ -47,4 +65,4 @@ class Solution(object):
 
 
 s = Solution()
-print s.findSubstring("a", ['a'])
+print s.findSubstring("wordgoodgoodgoodbestword", ["word","good","best","good"])

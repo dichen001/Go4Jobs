@@ -20,7 +20,26 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
-    def minWindow(self, s, t):
+        need = {}
+        flag = False
+        for c in t:
+            need[c] = need[c] + 1 if need.get(c) else 1
+        missing = len(t)
+        i, start, end = 0, 0, 0
+        for j, c in enumerate(s):
+            if need.get(c) > 0:
+                missing -= 1
+            need[c] = need[c] - 1 if need.get(c) else -1
+            if not missing:
+                while need[s[i]] < 0:
+                    need[s[i]] += 1
+                    i += 1
+                if not flag or j - i <= end - start:
+                    start, end = i, j
+                    flag = True
+        return s[start: end + 1] if flag else ''
+
+
         need, missing = collections.Counter(t), len(t)
         i = I = J = 0
         ## Start from 1 is very important here. think about input "a" "aa"
@@ -37,4 +56,4 @@ class Solution(object):
         return s[I:J]
 
 s = Solution()
-s.minWindow("a", "aa")
+s.minWindow("ab", "a")
