@@ -5,7 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        "Deques have O(1) speed for appendleft() and popleft() while lists have O(n) performance for insert(0, value) and pop(0).
+        "Deques have O(1) speed for appendleft() and popleft() while lists have O(n) performance for insert(0, value) and pop(0)."
 
 
         window = []
