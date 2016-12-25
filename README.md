@@ -52,14 +52,14 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 27 :+1: (+5) | 28 :shit: (+1)  | 29 :shit: (+1)  | 30 :birthday:+:100:考试 |  :shit: 期   |  :shit: 末   |  :shit: 复   |
 | 4  :triangular_flag_on_post: (+1) 习  | 5 :shit:  (+1)  中   | 6  :shit:  | 7  :shit:  | 8  :shit:  | 9 :shit:(+2) 考完了  | 10 :boom: (+11)  |
 | 11 :boom: (+10) | 12 :+1: (+4)  | 13  :boom: (+10) | 14   :+1: (+4)  | 15 :shit: (+1)  | 16  :shit: (+1)  | 17 :shit: (+1)   |
-| 18  :shit: (+1)  | 19  :shit: (+1)  | 20  :+1: (+5)  | 21  :shit: (+3) | 22 :boom: (+14)  | 23 :boom: (+12)  | 24   |
+| 18  :shit: (+1)  | 19  :shit: (+1)  | 20  :+1: (+5)  | 21  :shit: (+3) | 22 :boom: (+14)  | 23 :boom: (+12)  | 24  :boom: (+10) 复习 |
 | 25   | 26   | 27   | 28   | 29   | 30   | 31   |
 
 `Array:` 72/79  `Hash Table:` 43/52  `Linked List:` 25/27 `Math:` 50/57 `Two Pointers:` 32/32 `String:` 50/55 
 `Divide and Conquer:` 12/12 `Binary Search:`  27/37 `Dynamic Programming:` 40/63 `Backtracking:` 27/34 `Stack:` 14/25
 `Heap:` 14/15
 
-**`Total:` 292/421  `Hard:` 72/97 `Google:` 122/145**
+**`Total:` 301/421  `Hard:` 72/97 `Google:` 131/145**
 
 Detailed progress: [Jack's Log](https://github.com/dichen001/Go4Jobs/blob/master/JackChen/logs.md)
 
