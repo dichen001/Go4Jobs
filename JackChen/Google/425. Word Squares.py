@@ -72,9 +72,11 @@ class Solution(object):
             return []
         squares, prefix = [], collections.defaultdict(list)
         l = len(words[0])
+        # build Trie
         for w in words:
             for i in range(1,l+1):
                 prefix[w[:i]] += [w]
+        # dynamic programing
         def build(square):
             if len(square) == l:
                 squares.append(square)
