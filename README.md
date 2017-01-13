@@ -53,13 +53,25 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 4  :triangular_flag_on_post: (+1) 习  | 5 :shit:  (+1)  中   | 6  :shit:  | 7  :shit:  | 8  :shit:  | 9 :shit:(+2) 考完了  | 10 :boom: (+11)  |
 | 11 :boom: (+10) | 12 :+1: (+4)  | 13  :boom: (+10) | 14   :+1: (+4)  | 15 :shit: (+1)  | 16  :shit: (+1)  | 17 :shit: (+1)   |
 | 18  :shit: (+1)  | 19  :shit: (+1)  | 20  :+1: (+5)  | 21  :shit: (+3) | 22 :boom: (+14)  | 23 :boom: (+12)  | 24  :boom: (+10) 复习 |
-| 25 复习 hard 13  | 26 复习 29 | 27 面试太渣 :disappointed:  | 28   | 29   | 30   | 31   |
+| 25 复习 hard 13  | 26 复习 29 | 27 面试太渣 :disappointed:  | 28 :disappointed:  | 29 :disappointed:  | 30 :disappointed:  | 31  :disappointed: |
 
-`Array:` 72/79  `Hash Table:` 43/52  `Linked List:` 25/27 `Math:` 50/57 `Two Pointers:` 32/32 `String:` 50/55 
-`Divide and Conquer:` 12/12 `Binary Search:`  27/37 `Dynamic Programming:` 40/63 `Backtracking:` 27/34 `Stack:` 14/25
-`Heap:` 14/15
 
-**`Total:` 309/421  `Hard:` 73/97 `Google:` 135/145**
+### 01/2017 
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+| 1:disappointed:  |2 :disappointed:  |3 :disappointed:   | 4 三面通知   | 5 :+1:  | 6 :+1: | 7 :+1: |
+| 8 :+1:  | 9  :+1: | 10 :+1:  | 11  :+1: | 12 :triangular_flag_on_post: 面完开心 | 13  | 14  |
+| 15  | 16  | 17  | 18  | 19  | 20  | 21  |
+| 22  | 23  | 24  | 25  | 26  | 27  | 28  |
+| 29  | 30  |  31 |   |     |     |     |
+
+
+
+`Array:` 72/79  `Hash Table:` 44/52  `Linked List:` 26/27 `Math:` 50/57 `Two Pointers:` 32/32 `String:` 51/55 
+`Divide and Conquer:` 12/12 `Binary Search:`  30/37 `Dynamic Programming:` 47/64 `Backtracking:` 27/34 `Stack:` 15/25
+`Heap:` 15/15
+
+**`Total:` 316/484  `Hard:` 75/89 `Google:` 140/151**
 
 > From 09/20/2016 tp 12/27/2016, after practicing coding for 3 months and 7 days, I screwed up my first interview, which is the only interview I have received so far.
 Lessons learned. No way to give up! But need to put the coding practices aside for a moment. New journey is waiting for me, the hungry and foolish me. 
