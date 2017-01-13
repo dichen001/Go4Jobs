@@ -1,9 +1,40 @@
+import collections
 class Solution(object):
     def pacificAtlantic(self, matrix):
         """
         :type matrix: List[List[int]]
         :rtype: List[List[int]]
         """
+        def bfs(queue, visited, mask):
+            while queue:
+                i, j = queue.popleft()
+                visited.add((i,j))
+                water[i][j] += mask
+                for di, dj in [(0,1), (1,0), (0,-1), (-1,0)]:
+                    ni, nj = i + di, j + dj
+                    if 0 <= ni < m and 0 <= nj < n and (ni,nj) not in visited and matrix[ni][nj] >= matrix[i][j]:
+                        queue.append((ni,nj))
+
+        if not matrix or not matrix[0]:
+            return matrix
+        m, n = len(matrix), len(matrix[0])
+        water, ans = [[0] * n for _ in range(m)], []
+        pac, atl = collections.deque(), collections.deque()
+        for i in range(m):
+            pac.append((i,0))
+            atl.append((i,n-1))
+        for j in range(n):
+            pac.append((0, j))
+            atl.append((m-1, j))
+        bfs(pac, set(), 1)
+        bfs(atl, set(), 2)
+        for i in range(m):
+            for j in range(n):
+                if water[i][j] == 3:
+                    ans.append([i,j])
+        return ans
+
+
         def dfs(i,j):
             if mem[i][j]:
                 return mem[i][j]
@@ -59,4 +90,4 @@ class Solution(object):
         # return ans
 
 s = Solution()
-s.pacificAtlantic([[3,3,3,3,3,3],[3,0,3,3,0,3],[3,3,3,3,3,3]])
+s.pacificAtlantic([[1,2,2,3,5],[3,2,3,4,4],[2,4,5,3,1],[6,7,1,4,5],[5,1,1,2,4]])

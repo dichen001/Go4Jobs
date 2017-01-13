@@ -42,3 +42,5 @@ class Solution(object):
                     result = max(result, row_hits + col_hits[j])
         return result
 
+s = Solution()
+s.maxKilledEnemies(["0E00","E0WE","0E00"])
