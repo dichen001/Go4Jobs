@@ -60,7 +60,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 1:disappointed:  |2 :disappointed:  |3 :disappointed:   | 4 三面通知   | 5 :+1:  | 6 :+1: | 7 :+1: |
-| 8 :+1:  | 9  :+1: | 10 :+1:  | 11  :+1: | 12 :triangular_flag_on_post: 面完开心 | 13  | 14  |
+| 8 :+1:  | 9  :+1: | 10 :+1:  | 11  :+1: | 12 :triangular_flag_on_post: 面完开心 | 13 :tada:面试过啦！ | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  |  31 |   |     |     |     |
