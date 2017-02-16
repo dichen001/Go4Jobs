@@ -60,16 +60,16 @@ Keep you motivated. Make progress everyday. Get your dream job.
 |-----|-----|-----|-----|-----|-----|-----|
 | 1:disappointed:  |2 :disappointed:  |3 :disappointed:   | 4 三面通知   | 5 :+1:  | 6 :+1: | 7 :+1: |
 | 8 :+1:  | 9  :+1: | 10 :+1:  | 11  :+1: | 12 :triangular_flag_on_post: 面完开心 | 13 :tada:面试过啦！ | 14 :laughing: |
-| 15  :smile: | 16 :blush: | 17 :blush: | 18 :blush: | 19 :sweat_smile: | 20 :sweat_smile: | 21 :sweat_smile: |
-| 22 :sweat: | 23 :sweat: | 24 :sweat: | 25 :sweat: | 26 :pensive: | 27 :pensive: | 28 :pensive: |
-| 29 :weary: | 30 :weary: |  31 :weary: |  1 :fearful:|   2 :fearful: |  3 :fearful:  |  4 :fearful:  |
+| 15 :smiley: 满 | 16 :smiley: 怀 | 17 :smiley: 期 | 18 :smiley: 待 | 19 :smiley: ， | 20 :smiley: 稍微 | 21 :smiley: 不 |
+| 22 :sweat_smile: 安 | 23 :sweat_smile: 修改问卷 | 24 :sweat_smile: 催HR | 25 :relieved: 匹配到 Ads 做 ML | 26 :muscle: 准备面试 | 27 :punch: 项目如此匹配，聊的很好。 | 28 :blush: |
+| 29 :blush: | 30 :blush: 重新 |  31 :blush: 满怀 |  1 :blush: 期待。 |   2 :sweat_smile: 找师兄师姐 |  3 :sweat_smile: 发了第一遍CV |  4 :smiley: 感觉科大人好幸福  |
 
 <h3>12/2016  <code>Goal:</code> <img src="/JackChen/Google.png" height="22" width="66"></h3>
 ### 02/2017 `Goal: `
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
-| 5 :cold_sweat:  | 6:cold_sweat:   | 7 :cold_sweat:  | 8 :sob:  | 9 :rage:  | 10 :scream: | 11 :neutral_face: |
-| 12 :broken_heart: | 13  | 14  | 15  | 16  | 17  | 18  | 
+| 5 :smiley: 好多师兄师姐 | 6:smiley: 主动帮忙  | 7 :smiley: 群发内部邮件！ | 8 :disappointed: 为啥还没动静？ | 9 :disappointed: 我又开始慌了... | 10 :disappointed: 反思为啥没有其他匹配？ | 11 :broken_heart: 修改CV 强调实习，项目经历。 |
+| 12 :raised_hands: 向HR更新CV | 13 :boom: 师兄帮找到一个新match，紧接着HR发来之前面试的offer | 14 面试谷歌助手，偏产品开发C++。 | 15 决定从第一个 host 继续搞继续学习。 | 16  | 17  | 18  | 
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  |   
 
