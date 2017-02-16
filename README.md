@@ -64,8 +64,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 22 :sweat_smile: 安 | 23 :sweat_smile: 修改问卷 | 24 :sweat_smile: 催HR | 25 :relieved: 匹配到 Ads 做 ML | 26 :muscle: 准备面试 | 27 :punch: 项目如此匹配，聊的很好。 | 28 :blush: 继续 |
 | 29 :blush: 开始 | 30 :blush: 等待 |  31 :blush: 等待 |  1 :blush: 等待 |   2 :sweat_smile: 找师兄师姐 |  3 :sweat_smile: 发了第一遍CV |  4 :smiley: 科大人好幸福  |
 
-<h3>12/2016  <code>Goal:</code> <img src="/JackChen/Google.png" height="22" width="66"></h3>
-### 02/2017 `Goal: `
+<h3> 02/2017  <code>1. 师兄师姐太给力！ 2. 自己之前CV太PhD，太学术, 应该多强调实习和项目才好找工作。 3. 最焦虑无奈的时候，老妈安慰‘顺其自然，是你的跑不了’  </code> <img src="/JackChen/Google.png" height="22" width="66"></h3>
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 5 :smiley: 好多师兄师姐 | 6:smiley: 主动帮我  | 7 :smiley: 群发内部邮件！ | 8 :disappointed: 可为啥还没动静？ | 9 :disappointed: 我又开始慌了... | 10 :disappointed: 反思为啥没有其他匹配？ | 11 :broken_heart: 修改CV 强调实习，项目经历。 |
