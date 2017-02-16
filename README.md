@@ -15,11 +15,8 @@ Keep you motivated. Make progress everyday. Get your dream job.
 4. To keep this README short, please log your detailed progress by creating your own issues or markdowns within your folder, and provide a link here.
 5. Feel free to insert your calender using the alphabetical order of your name (a,b,c,d,e,f,g....x,y,z)
 6. To make sure you can make changes for this repo, please add a new issue with your GitHub ID and @ any group member.
-7. To review foundamental programming knowledge and improve you coding skills, check this reference book:
-<p align="center">
-[__Cracking the Coding Interview__](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1478062845&sr=8-1&keywords=cracking+the+coding+interview)<br>
-<img src="https://images-na.ssl-images-amazon.com/images/I/51F6Lwyq5JL._SX348_BO1,204,203,200_.jpg" height="160" width="100">
-</p>
+7. To review foundamental programming knowledge and improve you coding skills, check this reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
+
 
 ## Jack‘s Log
 ### 09/2016 `+32  -->  32/421`
