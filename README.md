@@ -61,11 +61,11 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 22 :sweat_smile: 安 | 23 :sweat_smile: 修改问卷 | 24 :sweat_smile: 催HR | 25 :relieved: 匹配到 Ads 做 ML | 26 :muscle: 准备面试 | 27 :punch: 项目如此匹配，聊的很好。 | 28 :blush: 继续 |
 | 29 :blush: 开始 | 30 :blush: 等待 |  31 :blush: 等待 |  1 :blush: 等待 |   2 :sweat_smile: 找师兄师姐 |  3 :sweat_smile: 发了第一遍CV |  4 :smiley: 科大人好幸福  |
 
-<h3> 02/2017  <code> 经历长达一个月的煎熬，收获了更强大的内心。  </code> <img src="/JackChen/Google.png" height="22" width="66"></h3>
+<h3> 02/2017  <code> 经历一个月的煎熬，内心又结实了不少。  </code> <img src="/JackChen/Google.png" height="22" width="66"></h3>
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 5 :smiley: 好多师兄师姐 | 6:smiley: 主动帮我  | 7 :smiley: 群发内部邮件！ | 8 :disappointed: 可为啥还没动静？ | 9 :disappointed: 我又开始慌了... | 10 :disappointed: 反思为啥没有其他匹配？ | 11 :broken_heart: 修改CV 强调实习，项目经历。 |
-| 12 :raised_hands: 向HR更新CV | 13 :boom: 师兄帮找到一个新match，紧接着HR发来之前面试的offer | 14 面试谷歌助手，偏产品开发C++。 | 15 决定从第一个 host 继续搞继续学习。 | 16  | 17  | 18  | 
+| 12 :raised_hands: 向HR更新CV | 13 :boom: 师兄帮找到一个新match，紧接着HR发来之前面试的offer | 14 面试谷歌助手，偏产品开发C++。 | 15 决定从第一个 host 继续搞机器学习。 | 16 HR通知薪资和实习时间，签合同。 | 17  | 18  | 
 
 `Array:` 72/79  `Hash Table:` 44/52  `Linked List:` 26/27 `Math:` 50/57 `Two Pointers:` 32/32 `String:` 51/55 
 `Divide and Conquer:` 12/12 `Binary Search:`  30/37 `Dynamic Programming:` 47/64 `Backtracking:` 27/34 `Stack:` 15/25
@@ -73,17 +73,18 @@ Keep you motivated. Make progress everyday. Get your dream job.
 
 **`Total:` 316/484  `Hard:` 75/89 `Google:` 140/151**
 
-总结：
+### 总结：
 - 刷题还是必须的。
 - 简历也很重要。
 - 找工作的CV不能太学术。
-- 师兄师姐太给力！感激！
+- 师兄师姐太给力！感动！感激！
 - LinkedIn 好强大。
-- 很多自己意识不到的不足，只有在和别人的对比中才能发现，从而更好的审视自己，不断反思改进。 
-- 从过了面试到等待offer的这一个月，经历了心情的大起大伏，一度喜出望外，几度怀疑自己，甚至怀疑人生。到最后只发现自己依然是一个肤浅的耐不住性子的傻逼。
-- 最感动的一个瞬间就是在我极度失落的第三周末，整个人都不愿说话，开着车听着李宗盛唱 `想得不可得，你奈人生何。该舍的舍不得，只顾着跟人生瞎扯。 ` 后来老妈打电话过来说`是你的就跑不了，一切顺其自然。` 暖意瞬间涌来。
+- 很多自身的缺点和不足，往往自己意识不到，只有在谦虚诚恳地别人的对比中才能发现，从而更好地审视自己，不断反思改进。 
+- 过了技术面后，在 team matching 等待 offer 的这一个月，经历了心情的大起大伏。一度喜出望外，几度怀疑自己，甚至怀疑人生。到最后只发现自己依然是一个肤浅的耐不住性子的傻逼。
+- 最感动的可能是在极度失落的第三周周末，整个人都不愿说话，开着车听着李宗盛唱 `想得不可得，你奈人生何。该舍的舍不得，只顾着跟人生瞎扯。 ` 后来老妈打电话过来说`是你的就跑不了，一切顺其自然。` 
+
 - 今年的实习暂告一段落，算是实现了去年拿到小公司实习时对以后去大公司实习的期待。
-- 明年希望能去Facebook，或者 Uber 和 Airbnb。如果可以选择地方，那就西雅图吧。
+- 明年希望能去 Facebook，或者 Uber 和 Airbnb。如果可以选择地方，那就西雅图吧。
 - 路途遥远，继续奋斗！
 
 
