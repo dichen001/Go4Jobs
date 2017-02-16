@@ -22,13 +22,13 @@ Keep you motivated. Make progress everyday. Get your dream job.
 </p>
 
 ## Jack‘s Log
-### 09/2016
+### 09/2016 `+32  -->  32/421`
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 18  	| 19  	| 20  :triangular_flag_on_post:(+3)| 21 :+1: (+4) 	| 22 :+1: (+5) 	| 23  :+1: (+5) 	| 24 :shit: (+1) 	|
 | 25  :+1: (+3) 	| 26  :+1: (+4) 	| 27  :zzz:	| 28  :+1: (+4) 	| 29  :+1: (+4)	| 30  :star: (+6)	|   1 :zzz: :cn:(+1)国庆	|
 
-### 10/2016  `总结： 我太特么懒了。。。` :pig:
+### 10/2016  `+89  -->  121/421` :pig:
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |-----	|-----	|-----	|-----	|-----	|-----	|-----	|
 | 2 :zzz: (+1)  	| 3  :+1: (+3)  	| 4  :+1: (+4) 	| 5 :+1: (+6) 	| 6  :+1: (+5) 	| 7  :fallen_leaf: 大雾山 | 8  :+1: (+4)  	|
@@ -36,7 +36,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 16  :+1: (+6) 	| 17 :+1: (+6)  	| 18  :+1: (+7) 	| 19  :+1: (+5) 	| 20  :+1: (+4) 	| 21 :shit: 造轮子	| 22 💩 浪去了 	|
 | 23  :shit: 备考	| 24 :shit: 懵 	| 25 :shit: 逼 	| 26  :shit: 持	| 27 :shit: 续	| 28  :shit: 懵	| 29 :shit: 逼 	|
 
-###  11/2016  `Goal：200+/Total, 50%+/Hard, 做不完直播吃翔`:shit:
+###  11/2016  `+90  --> 211/421  开始重点刷 Hard(75/89)`
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 30 :shit: 中 | 31 :+1: +4 | 1  :+1: +5  | 2 :+1: (+5)  | 3  :+1: (+7)  | 4 :+1: (+8)  | 5  :+1: (+6) |
@@ -44,8 +44,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 13  :shit:  (+1) | 14 :shit: 实验跪了  | 15 :shit: (+3) | 16  :+1: (+5)  | 17 :shit: 忙 | 18 :+1: (+5) | 19 :shit:  (+3) |
 | 20 :shit: 赶 | 21 :shit: 作 | 22  :shit: 页 | 23 :shit: (+1) | 24 :+1: (+4)  | 25  :+1: (+4) | 26 :+1: (+5) |
 
-
-<h3>12/2016  <code>Goal:</code> <img src="/JackChen/Google.png" height="22" width="66"></h3>
+###  12/2016  `+105  --> 316/484  开始重点刷 Google(140/151)`
 
 | Sun. | Mon. | Tue. | Wed. | Thu. | Fri. | Sat. |
 |------|------|------|------|------|------|------|
@@ -56,14 +55,24 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 25 复习 hard 13  | 26 复习 29 | 27 面试太渣 :disappointed:  | 28 :disappointed:  | 29 :disappointed:  | 30 :disappointed:  | 31  :disappointed: |
 
 
-### 01/2017 
+### 01/2017 `感觉面试跪了 --失落-> 收到3面 --惊喜--> 面试过了 --兴奋--> 煎熬的小组匹配`
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 1:disappointed:  |2 :disappointed:  |3 :disappointed:   | 4 三面通知   | 5 :+1:  | 6 :+1: | 7 :+1: |
-| 8 :+1:  | 9  :+1: | 10 :+1:  | 11  :+1: | 12 :triangular_flag_on_post: 面完开心 | 13 :tada:面试过啦！ | 14  |
-| 15  | 16  | 17  | 18  | 19  | 20  | 21  |
-| 22  | 23  | 24  | 25  | 26  | 27  | 28  |
-| 29  | 30  |  31 |   |     |     |     |
+| 8 :+1:  | 9  :+1: | 10 :+1:  | 11  :+1: | 12 :triangular_flag_on_post: 面完开心 | 13 :tada:面试过啦！ | 14 :laughing: |
+| 15  :smile: | 16 :blush: | 17 :blush: | 18 :blush: | 19 :sweat_smile: | 20 :sweat_smile: | 21 :sweat_smile: |
+| 22 :sweat: | 23 :sweat: | 24 :sweat: | 25 :sweat: | 26 :pensive: | 27 :pensive: | 28 :pensive: |
+| 29 :weary: | 30 :weary: |  31 :weary: |  1 :fearful:|   2 :fearful: |  3 :fearful:  |  4 :fearful:  |
+
+<h3>12/2016  <code>Goal:</code> <img src="/JackChen/Google.png" height="22" width="66"></h3>
+### 02/2017 `Goal: `
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+| 5 :cold_sweat:  | 6:cold_sweat:   | 7 :cold_sweat:  | 8 :sob:  | 9 :rage:  | 10 :scream: | 11 :neutral_face: |
+| 12 :broken_heart: | 13  | 14  | 15  | 16  | 17  | 18  | 
+| 19  | 20  | 21  | 22  | 23  | 24  | 25  |
+| 26  | 27  | 28  | 29  | 30  |   
+
 
 
 
