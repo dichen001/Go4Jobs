@@ -29,6 +29,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 16  | 17 :triangular_flag_on_post:(+2) | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  |     |     |     |     |     |     |
+
 `Reservoir Sampling`: 2/2
 
 
