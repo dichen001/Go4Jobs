@@ -1,3 +1,11 @@
+Reservoir Sampling
+
+Problem:
+	Select K items from N and make sure the items are selected with P=K/N. (N could be very large and unknown)
+
+Solution:
+	First put K items in the box/reservoir, then for the rest items, each of them has P=K/(K+i) to be selected and P=1/K to replace one currently in the box/reservoir.
+
 ### Problem:
   - Choose <code>k</code> entries from <code>n</code> numbers. Make sure each number is selected with the probability of <code>k/n</code>
 
