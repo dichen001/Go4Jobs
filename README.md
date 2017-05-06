@@ -26,13 +26,17 @@ Keep you motivated. Make progress everyday. Get your dream job.
 |-----|-----|-----|-----|-----|-----|-----|
 | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
-| 16  | 17 :triangular_flag_on_post:(+2) | 18 :zzz: DevOps TechTalk | 19 (+3)  | 20  | 21  | 22  |
-| 23  | 24  | 25  | 26  | 27  | 28  | 29  |
+| 16  | 17 :triangular_flag_on_post:(+2) | 18 :zzz: DevOps TechTalk | 19 (+3)  | 20 我 | 21 特 | 22 喵 |
+| 23 地 | 24 都 | 25 去 | 26 干 | 27 啥 | 28 了 | 29  :astonished:(+4) |
 | 30  |     |     |     |     |     |     |
 
 `Reservoir Sampling`: 2/2
 `Minimax`: 3/3
-
+`Queue`: 1/3 (:lock:)
+`Memoization`: 1/1
+`Brainteaser`: 2/2
+`Recursion`: (:lock:)
+`Binary Search Tree`: /6
 
 ## Jerry
 ### 09/2016
