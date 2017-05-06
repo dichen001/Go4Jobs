@@ -22,17 +22,26 @@ Keep you motivated. Make progress everyday. Get your dream job.
 **Previous Progress:** `Total:` 316/484  `Hard:` 75/89 `Google:` 140/151
 
 ## Jack‘s Log - Stage 2  (04/17/2017 -- 
+### April
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
-| 2   | 3   | 4   | 5   | 6   | 7   | 8   |
-| 9   | 10  | 11  | 12  | 13  | 14  | 15  |
-| 16  | 17 :triangular_flag_on_post:(+2) | 18 :zzz: DevOps TechTalk | 19 (+3)  | 20 我 | 21 特 | 22 喵 |
-| 23 地 | 24 都 | 25 去 | 26 干 | 27 啥 | 28 了 | 29  :astonished:(+4) |
-| 30  |     |     |     |     |     |     |
+| 16  | 17 :triangular_flag_on_post:(+2) | 18 :zzz: DevOps TechTalk | 19 (+3)  | 20 :anguished:我 | 21:anguished: 特 | 22:anguished: 喵 |
+| 23 :frowning:地 | 24 :frowning:都 | 25:frowning: 去 | 26:frowning: 干 | 27 :frowning:啥 | 28 :frowning:了 | 29  :astonished:(+4) |
+
+### May
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+| 30 :pensive: 又 |  1 :pensive: 在 | 2 :pensive: 荒 | 3  :pensive:废 | 4  :pensive: 人 | 5 :pensive: 生 | 6  +2 |
+| 30  |  1  | 2   | 3   | 4   | 5   | 6   |
+| 7   | 8   | 9   | 10  | 11  | 12  | 13  | 
+| 14  | 15  | 16  | 17  | 18  | 19  | 20  |
+| 21  | 22  | 23  | 24  | 25  | 26  | 27  |
+| 28  | 29  | 30  | 31  |     |     |     |
+
 
 `Reservoir Sampling`: 2/2
 `Minimax`: 3/3
-`Queue`: 1/3 (:lock:)
+`Queue`: 3/3 
 `Memoization`: 1/1
 `Brainteaser`: 2/2
 `Recursion`: (:lock:)
