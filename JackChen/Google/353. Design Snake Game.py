@@ -70,8 +70,8 @@ class SnakeGame(object):
 
     def updateFood(self):
         if len(self.food) > 0:
-                f = self.food.pop(0)
-                self.map[tuple(f)] = 'F'
+            f = self.food.pop(0)
+            self.map[tuple(f)] = 'F'
 
 
     def move(self, direction):

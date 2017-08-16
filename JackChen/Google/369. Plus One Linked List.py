@@ -24,6 +24,21 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
+        # what really matters is the continous 9s from the end.
+        pre = ListNode(0)
+        pre.next = head
+        l = r = pre
+        while r.next:
+            r = r.next
+            if r.val != 9:
+                l = r
+        l.val += 1
+        while l.next:
+            l = l.next
+            l.val = 0
+        return pre if pre.val == 1 else head
+
+
         stack = []
         flag = False
         while head and head.next:

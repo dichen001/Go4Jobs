@@ -57,6 +57,7 @@ class Solution(object):
             ans.append(islands.count)
         return ans
 
+# add a size dict saving the size of each Union will help balance the join step. i.e. small join big unions.
 class Union(object):
     def __init__(self):
         self.roots = {}
@@ -73,6 +74,7 @@ class Union(object):
         nproot = self.find(np)
         if proot == nproot:
             return
+        # optional optimization step.
         if self.size[proot] > self.size[nproot]:
             proot, nproot = nproot, proot
         self.roots[proot] = nproot

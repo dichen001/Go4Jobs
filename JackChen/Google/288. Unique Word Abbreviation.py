@@ -60,6 +60,6 @@ class ValidWordAbbr(object):
 
 
 # Your ValidWordAbbr object will be instantiated and called as such:
-# vwa = ValidWordAbbr(dictionary)
-# vwa.isUnique("word")
-# vwa.isUnique("anotherWord")
+vwa = ValidWordAbbr(["deer","door","cake","card"])
+vwa.isUnique("door")
+vwa.isUnique("anotherWord")

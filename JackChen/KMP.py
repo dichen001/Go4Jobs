@@ -53,4 +53,4 @@ def buildKMP(s):
             l = T[l]
     return T
 
-print substring('ABCDABD', 'ABC ABCDAB ABCDABCDABDE')
+print substring('aacaacXaacaac', 'ABC ABCDAB ABCDABCDABDE')

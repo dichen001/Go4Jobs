@@ -20,7 +20,7 @@ class Solution(object):
                 if s[i-1] == p[j-1] or p[j-1] == '.':
                     mem[i][j] = mem[i-1][j-1]
                 if p[j-1] == '*':
-                    if p[j-2] != s[i-1] or p[j-2] != '.':
+                    if p[j-2] != s[i-1] and p[j-2] != '.':
                         mem[i][j] = mem[i][j-2]
                     else:
                         mem[i][j] = mem[i][j-2] or mem[i][j-1] or mem[i-1][j]

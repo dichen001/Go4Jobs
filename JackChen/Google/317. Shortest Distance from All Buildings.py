@@ -69,41 +69,42 @@ class Solution(object):
         :type grid: List[List[int]]
         :rtype: int
         """
-        def bfs(i, j, empty_mark):
+
+        def bfs(i, j, e_mask):
+            queue = collections.deque([(i, j)])
             level = 0
-            queue = collections.deque([(i,j)])
             while queue:
                 level += 1
-                count = len(queue)
-                for _ in range(count):
+                level_count = len(queue)
+                for _ in range(level_count):
                     i, j = queue.popleft()
-                    for di, dj in [(0,1), (1,0), (0,-1), (-1,0)]:
+                    for di, dj in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
                         ni, nj = i + di, j + dj
-                        if 0 <= ni < m and 0 <= nj < n and grid[ni][nj] == empty_mark:
-                            grid[ni][nj] = empty_mark - 1
+                        if 0 <= ni < m and 0 <= nj < n and grid[ni][nj] == e_mask:
+                            queue.append((ni, nj))
                             dist[ni][nj] += level
-                            queue.append((ni,nj))
-
+                            grid[ni][nj] = e_mask - 1
 
         if not grid or not grid[0]:
-            return
+            return 0
         m, n = len(grid), len(grid[0])
         dist = [[0] * n for _ in range(m)]
         for i in range(m):
             for j in range(n):
-                if grid[i][j] in [1,2]:
+                if grid[i][j] in [1, 2]:
                     dist[i][j] = float('inf')
-        empty_mark = 0
+        e_mask = 0
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 1:
-                    bfs(i, j, empty_mark)
-                    empty_mark -= 1
+                    bfs(i, j, e_mask)
+                    e_mask -= 1
         ans = float('inf')
         for i in range(m):
             for j in range(n):
-                ans = min(ans, dist[i][j])
-        return ans
+                if grid[i][j] == e_mask:
+                    ans = min(ans, dist[i][j])
+        return ans if ans != float('inf') else -1
 
 s = Solution()
 s.shortestDistance([[1,0,2,0,1],[0,0,0,0,0],[0,0,1,0,0]])

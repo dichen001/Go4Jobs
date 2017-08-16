@@ -5,8 +5,8 @@ class Solution(object):
         :rtype: str
         """
 
-        # BFS topological sort
-
+        # BFS topological
+        #  sort
         chars = set(''.join(words))
         graph = {c:set() for c in chars}
         in_degree = {c:0 for c in chars}

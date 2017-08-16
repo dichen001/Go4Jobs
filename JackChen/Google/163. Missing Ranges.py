@@ -9,6 +9,7 @@ Show Similar Problems
 
 """
 
+
 class Solution(object):
     def findMissingRanges(self, nums, lower, upper):
         """
@@ -17,17 +18,20 @@ class Solution(object):
         :type upper: int
         :rtype: List[str]
         """
-        if not nums:
-            return [str(lower)] if lower == upper else[str(lower) + '->' + str(upper)]
-        ranges = []
-        pre = lower - 1
-        nums = sorted(set(nums))
-        for n in nums + [upper + 1]:
-            if n not in [pre, pre+1]:
-                end = n - 1
-                if pre + 1 == end:
-                    ranges.append(str(end))
-                else:
-                    ranges.append(str(pre+1) + '->' + str(end))
-            pre = n
-        return ranges
+        ans, next = [], lower
+
+        def getRange(l, r):
+            return [str(l)] if l == r else [str(l) + '->' + str(r)]
+
+        for n in sorted(set(nums)):
+            if n < next:
+                continue
+            if n == next:
+                next += 1
+                continue
+            ans += getRange(next, n - 1)
+            next = n + 1
+        if next <= upper:
+            ans += getRange(next, upper)
+        return ans
+

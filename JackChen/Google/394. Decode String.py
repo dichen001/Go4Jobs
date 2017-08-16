@@ -20,6 +20,32 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
+        if not s:
+            return ''
+        i, n = 0, len(s)
+        result, stack = '', []
+        str, cnt = [], []
+        while i < n:
+            if s[i].isalpha():
+                str.append(s[i])
+            if s[i].isdigit():
+                cnt.append(s[i])
+            if s[i] == '[':
+                stack += [(''.join(str), int(''.join(cnt)) if cnt else 1)]
+                str, cnt = [], []
+            if s[i] == ']':
+                pre, pre_cnt = stack.pop()
+                tmp = pre + pre_cnt * ''.join(str)
+                if not stack:
+                    result += tmp
+                    str, cnt = [], []
+                else:
+                    str, cnt = [tmp], []
+            i += 1
+        return result + ''.join(str)
+
+
+
         stack = []  # (pre, pre_size)
         i, n = 0, len(s)
         cur, result = '', ''
@@ -44,3 +70,6 @@ class Solution(object):
                     cur = ''
             i += 1
         return result + cur
+
+s = Solution()
+print s.decodeString("xxx3[a2[c]]dd")
