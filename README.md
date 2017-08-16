@@ -18,40 +18,15 @@ Keep you motivated. Make progress everyday. Get your dream job.
 7. To review foundamental programming knowledge and improve you coding skills, check this reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
 
-## Jack‘s Log - Stage 1  (09/20/2016 -- 01/12／2017)
+## Jack‘s Log - Stage 1  (09/20/2016 -- 01/12／2017) :blush:
 **Previous Progress:** `Total:` 316/484  `Hard:` 75/89 `Google:` 140/151
 
-## Jack‘s Log - Stage 2  (04/17/2017 -- 
-### April +9
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-|-----|-----|-----|-----|-----|-----|-----|
-| 16  | 17 :triangular_flag_on_post:(+2) | 18 :zzz: DevOps TechTalk | 19 (+3)  | 20 :anguished:我 | 21:anguished: 特 | 22:anguished: 喵 |
-| 23 :frowning:地 | 24 :frowning:都 | 25:frowning: 去 | 26:frowning: 干 | 27 :frowning:啥 | 28 :frowning:了 | 29  :astonished:(+4) |
+## Jack‘s Log - Stage 2  (04/17/2017 -- 08/15/2017) :joy:
+**Summer Progress :** `Total:` 80/646  `Hard:` 43/125 `Google:` 68/202
 
-### May + 10
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-|-----|-----|-----|-----|-----|-----|-----|
-| 30 :pensive: 又 |  1 :pensive: 在 | 2 :pensive: 荒 | 3  :pensive:废 | 4  :pensive: 人 | 5 :pensive: 生 | 6  +2 |
-
-### June +31
-
-### July
-| Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
-|-----	|-----	|-----	|-----	|-----	|-----	|-----	|
-| 2   	| 3   	| 4   	| 5   	| 6   	| 7  	| 8 ()	|
-| 9  	| 10  	| 11  	| 12  	| 13  	| 14 	| 15  	|
-| 16  	| 17  	| 18  	| 19  	| 20  	| 21  	| 22  	|
-| 23  	| 24  	| 25  	| 26  	| 27  	| 28  	| 29   	|
-| 30  	| 31  	|     	|     	|     	|     	|      	|
+## Jack‘s Log - Stage 3  (08/16/2017 -- 
 
 
-`Reservoir Sampling`: 2/2
-`Minimax`: 3/3
-`Queue`: 3/3 
-`Memoization`: 1/1
-`Brainteaser`: 2/2
-`Recursion`: (:lock:)
-`Binary Search Tree`: /6
 
 ## Jerry
 ### 09/2016
