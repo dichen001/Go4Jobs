@@ -64,3 +64,23 @@
 - 今年的实习暂告一段落，算是实现了去年拿到小公司实习时对以后去大公司实习的期待。
 - 明年希望能去 Facebook，或者 Uber 和 Airbnb。如果可以选择地方，那就西雅图吧。
 - 路途遥远，继续奋斗！
+
+
+## Jack‘s Log - Stage 2  (04/17/2017 -- 08/15/2017) :joy:
+**Summer Progress :** `Total:` 80/646  `Hard:` 43/125 `Google:` 68/202
+
+## Jack‘s Log - Stage 3  (08/16/2017 -- 
+### April +9
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+| 16  | 17 :triangular_flag_on_post:(+2) | 18 :zzz: DevOps TechTalk | 19 (+3)  | 20 :anguished:我 | 21:anguished: 特 | 22:anguished: 喵 |
+| 23 :frowning:地 | 24 :frowning:都 | 25:frowning: 去 | 26:frowning: 干 | 27 :frowning:啥 | 28 :frowning:了 | 29  :astonished:(+4) |
+
+### May + 10
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+| 30 :pensive: 又 |  1 :pensive: 在 | 2 :pensive: 荒 | 3  :pensive:废 | 4  :pensive: 人 | 5 :pensive: 生 | 6  +2 |
+
+### June +31
+
+### July +39
