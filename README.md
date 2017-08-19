@@ -30,7 +30,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 13  | 14  | 15  | 16  | 17 :sweat:(+1) | 18 :exclamation: Mock MTV(+1) | 19 :sweat:(+3) |
-| 20  | 21  | 22  | 23  | 24  | 25  | 26  |
+| 20 复习+刷题 | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  | 1   | 2   |
 | 3   | 4   | 5   | 6   | 7 :triangular_flag_on_post: NYC 面试 | 8   | 9    | 
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
