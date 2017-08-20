@@ -17,8 +17,8 @@ class Solution(object):
             return lo
         m, n = len(image), len(image[0])
         imageT = zip(*image)
-        left = biSearch(0, x, lambda x: '1' in imageT[x])
-        right = biSearch(x, n, lambda x: '1' not in imageT[x])
+        left = biSearch(0, y, lambda x: '1' in imageT[x])
+        right = biSearch(y, n, lambda x: '1' not in imageT[x])
         up = biSearch(0, x, lambda x: '1' in image[x])
         down = biSearch(x, m, lambda x: '1' not in image[x])
         return (down - up) * (right - left)
@@ -50,4 +50,5 @@ class Solution(object):
 
 
 s = Solution()
-s.minArea(["0010","0110","0100"], 0, 2)
+# s.minArea(["0010","0110","0100"], 0, 2)
+s.minArea(["1110111", "1110111"], 0, 4)

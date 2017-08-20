@@ -34,6 +34,8 @@ class Solution(object):
             j = half - i
             if i > 0 and A[i-1] > B[j]:
                 r = i - 1
+            # note it's very important here to have 'i < m' instead of 'j > 0' !!
+            # because we are basically changing i here, j is just changed correspondingly with i.
             elif i < m and B[j-1] > A[i]:
                 l = i + 1
             else:
