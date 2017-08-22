@@ -49,7 +49,21 @@ class Solution(object):
                 path_len[level + 1] = path_len[level] + len(name) + 1
         return max_len
 
-        # my stack implementation
+        # my recent stack implementation
+        ans, stack = 0, []
+        for s in input.split('\n'):
+            sub_path = s.split('\t')
+            name = sub_path[-1]
+            level = len(sub_path) - 1
+            if level >= len(stack):
+                stack.append(name)
+            else:
+                stack[level] = name
+            if "." in sub_path[-1]:
+                ans = max(ans, len('/'.join(stack[:level+1])))
+        return ans
+
+        # my old stack implementation
         result = 0
         inputs = input.split('\n')
         pre, stack = -1, []
@@ -72,4 +86,5 @@ class Solution(object):
 
 
 s = Solution()
-s.lengthLongestPath("dir\n\tsubdir1\n\t\tfile1.ext\n\t\tsubsubdir1\n\tsubdir2\n\t\tsubsubdir2\n\t\t\tfile2.ext")
+# s.lengthLongestPath("dir\n\tsubdir1\n\t\tfile1.ext\n\t\tsubsubdir1\n\tsubdir2\n\t\tsubsubdir2\n\t\t\tfile2.ext")
+s.lengthLongestPath("dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext")
