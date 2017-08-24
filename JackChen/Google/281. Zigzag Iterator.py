@@ -22,59 +22,35 @@ Show Similar Problems
 
 """
 
-class ZigzagIterator(object):
+from collections import deque
 
+
+class ZigzagIterator(object):
     def __init__(self, v1, v2):
         """
         Initialize your data structure here.
         :type v1: List[int]
         :type v2: List[int]
         """
-        self.q = [_ for _ in (v1,v2) if _]
-
-
-        # self.v12 = [v1,v2]
-        # self.i = 0
-        # self.turn = 0
-
+        self.q = deque([deque(v) for v in (v1, v2) if v])
 
     def next(self):
         """
         :rtype: int
         """
-        v = self.q.pop(0)
-        ret = v.pop(0)
+        v = self.q.popleft()
+        ret = v.popleft()
         if v:
             self.q.append(v)
         return ret
-
-        # t = self.turn
-        # i = self.i
-        # v = self.v12[t][i]
-        # self.turn = (t+1) % 2
-        # if self.turn == 0 or self.i >= len(self.v12[(t+1) % 2]):
-        #     self.i += 1
-        # return v
-
-
-
 
     def hasNext(self):
         """
         :rtype: bool
         """
-        if self.q:
-            return True
-        return False
-        # t = self.turn
-        # if self.i < len(self.v12[t]):
-        #     return True
-        # elif self.i < len(self.v12[(t+1)%2]):
-        #     self.turn = (t+1) % 2
-        #     return True
-        # return False
+        return self.q != []
 
 
 # Your ZigzagIterator object will be instantiated and called as such:
-# i, v = ZigzagIterator(v1, v2), []
-# while i.hasNext(): v.append(i.next())
+i, v = ZigzagIterator([1], []), []
+while i.hasNext(): v.append(i.next())
