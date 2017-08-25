@@ -19,6 +19,14 @@ class Solution(object):
             valid += adjustment[valid % l]
         return valid / l
 
+        " TLE "
+        #         ans, cnt, n = 0, 0, len(sentence)
+        #         for _ in range(rows):
+        #             cur_l = 0
+        #             while cur_l + len(sentence[cnt%n]) <= cols:
+        #                 cur_l += len(sentence[cnt%n]) + 1
+        #                 cnt += 1
+        #         return cnt / n
 
         "wrong and TLE"
         mem = [0] * rows

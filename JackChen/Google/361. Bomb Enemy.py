@@ -13,34 +13,66 @@ E 0 W E
 return 3. (Placing a bomb at (1,1) kills 3 enemies)
 """
 
+
 class Solution(object):
     def maxKilledEnemies(self, grid):
         """
         :type grid: List[List[str]]
         :rtype: int
         """
+        # most intuitive version; faster but waster space
         if not grid or not grid[0]:
             return 0
         m, n = len(grid), len(grid[0])
-        result, row_hits = 0, 0
-        col_hits = [0] * n
+        row_sum, col_sum = [0] * m, [0] * n
+        row_visited, col_visited = [False] * m, [False] * n
+        ans = 0
         for i in range(m):
             for j in range(n):
-                if j == 0 or grid[i][j-1] == 'W':
-                    row_hits = 0
-                    k = j
-                    while k < n and grid[i][k] != 'W':
-                        row_hits += grid[i][k] == 'E'
-                        k += 1
-                if i == 0 or grid[i-1][j] == 'W':
-                    col_hits[j] = 0
-                    k = i
-                    while k < m and grid[k][j] != 'W':
-                        col_hits[j] += grid[k][j] == 'E'
-                        k += 1
+                if grid[i][j] == "W":
+                    row_visited[i] = col_visited[j] = False
+                    row_sum[i] = col_sum[j] = 0
+                    continue
+                if not row_visited[i]:
+                    row_visited[i] = True
+                    jj = j
+                    while jj < n and grid[i][jj] != 'W':
+                        row_sum[i] += grid[i][jj] == 'E'
+                        jj += 1
+                if not col_visited[j]:
+                    col_visited[j] = True
+                    ii = i
+                    while ii < m and grid[ii][j] != 'W':
+                        col_sum[j] += grid[ii][j] == 'E'
+                        ii += 1
                 if grid[i][j] == '0':
-                    result = max(result, row_hits + col_hits[j])
-        return result
+                    ans = max(ans, row_sum[i] + col_sum[j])
+        return ans
+
+        # optimized version.
+        if not grid or not grid[0]:
+            return 0
+        m, n = len(grid), len(grid[0])
+        row_sum, col_sum = 0, [0] * n
+        ans = 0
+        for i in range(m):
+            for j in range(n):
+                if j == 0 or grid[i][j - 1] == "W":
+                    row_sum = 0
+                    jj = j
+                    while jj < n and grid[i][jj] != 'W':
+                        row_sum += grid[i][jj] == 'E'
+                        jj += 1
+                if i == 0 or grid[i - 1][j] == "W":
+                    col_sum[j] = 0
+                    ii = i
+                    while ii < m and grid[ii][j] != 'W':
+                        col_sum[j] += grid[ii][j] == 'E'
+                        ii += 1
+                if grid[i][j] == '0':
+                    ans = max(ans, row_sum + col_sum[j])
+        return ans
+
 
 s = Solution()
 s.maxKilledEnemies(["0E00","E0WE","0E00"])

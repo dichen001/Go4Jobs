@@ -47,9 +47,8 @@ class Solution(object):
             left = dfs(node.left, node.val, cur_len)
             right = dfs(node.right, node.val, cur_len)
             return max(cur_len, left, right)
-        
+
         return dfs(root, root.val, 1) if root else 0
-            
-        
-        
-        
+
+
+
