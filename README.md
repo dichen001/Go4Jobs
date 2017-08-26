@@ -30,13 +30,18 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 13  | 14  | 15  | 16  | 17 :sweat:(+1) | 18 :exclamation: Mock MTV(+1) | 19 :sweat:(+3) |
-| 20 复习+刷题 (+8) | 21 断舍离啊(+5) | 22 (+10) 状态不错| 23 Yelp OA (+5) | 24 FB response (+11) | 25 FB PI 确定 (+9) | 26  |
+| 20 复习+刷题 (+8) | 21 断舍离啊(+5) | 22 (+10) 状态不错| 23 Yelp OA (+5) | 24 FB response (+11) | 25 FB PI 确定 (+9) | 26 Yelp PI 通知 (+16) |
 | 27  | 28  | 29  | 30  | 31  | 1   | 2   |
 | 3   | 4 :airplane:  | 5  :phone:FB | 6   | 7 :triangular_flag_on_post: NYC 面试 | 8  :helicopter: | 9    | 
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 
+121/640 Solved - Easy 17 Medium 47 Hard 57
+- Google
+  - You have solved  90/ 202 problems.
+- Facebook
+  - You have solved  43/ 105 problems
 
 ## Jerry
 ### 09/2016
