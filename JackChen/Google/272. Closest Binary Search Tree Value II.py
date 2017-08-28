@@ -26,6 +26,7 @@ class TreeNode(object):
         self.left = None
         self.right = None
 
+
 class Solution(object):
     def closestKValues(self, root, target, k):
         """
@@ -34,72 +35,69 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
+
         # O(klog(n)) solution. traverse on demand, each traverse is O(log(n))
 
         # preparation first, get the increasing stack for nodes’ value bigger than target
         #			 the decreasing stack for nodes’ value smaller than target
 
         def getNextSmall():
-        	node = smaller.pop()
-        	ret = node.val
-        	node = node.left
-        	while node:
-        	    smaller.append(node)
-        	    node = node.right
-        	return ret
+            node = smaller.pop()
+            ret = node.val
+            node = node.left
+            while node:
+                smaller.append(node)
+                node = node.right
+            return ret
 
-    	def getNextBig():
-        	node = bigger.pop()
-        	ret = node.val
-        	node = node.right
-        	while node:
-        	    bigger.append(node)
-        	    node = node.left
-        	return ret
+        def getNextBig():
+            node = bigger.pop()
+            ret = node.val
+            node = node.right
+            while node:
+                bigger.append(node)
+                node = node.left
+            return ret
 
         ans, bigger, smaller = [], [], []
         node = root
         while node != None:
-        	if node.val < target:
-        		smaller.append(node)
-        		node = node.right
-    		else:
-    			bigger.append(node)
-    			node = node.left
-    	for _ in range(k):
-    		if not bigger and not smaller:
-    			return ans
-    		elif bigger and smaller:
-    			if abs(bigger[-1].val - target) < abs(smaller[-1].val - target):
-    				ans.append(getNextBig())
-    			else:
-    				ans.append(getNextSmall())
-    		elif bigger:
-    		    ans.append(getNextBig())
-        	else:
-        	    ans.append(getNextSmall())
+            if node.val < target:
+                smaller.append(node)
+                node = node.right
+            else:
+                bigger.append(node)
+                node = node.left
+        for _ in range(k):
+            if not bigger and not smaller:
+                return ans
+            elif bigger and smaller:
+                if abs(bigger[-1].val - target) < abs(smaller[-1].val - target):
+                    ans.append(getNextBig())
+                else:
+                    ans.append(getNextSmall())
+            elif bigger:
+                ans.append(getNextBig())
+            else:
+                ans.append(getNextSmall())
         return ans
-
 
         # O(n) solution
         def dfs(node):
-        	if not node:
-        		return
-        	dfs(node.left)
-        	if len(window) == k:
-        		if abs(node.val - target) < abs(window[0] - target):
-        			window.pop(0)
-        		else:
-        			return
-        	window.append(node.val)
-        	dfs(node.right)
-    	window = []
-    	dfs(root)
-    	return window
+            if not node:
+                return
+            dfs(node.left)
+            if len(window) == k:
+                if abs(node.val - target) < abs(window[0] - target):
+                    window.pop(0)
+                else:
+                    return
+            window.append(node.val)
+            dfs(node.right)
 
-
-
-
+        window = []
+        dfs(root)
+        return window
 
 
 root = TreeNode(5)
@@ -109,14 +107,8 @@ root.left.left = TreeNode(1)
 root.left.right = TreeNode(4)
 root.left.left.right = TreeNode(2)
 
-
 s = Solution()
-s.closestKValues(root,2.571429,1)
-
-
-
-
-
+s.closestKValues(root, 2.571429, 1)
 
 
 class Solution(object):
@@ -127,6 +119,7 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
+
         def dfs(node, target, reverse):
             if not node:
                 return
@@ -142,6 +135,7 @@ class Solution(object):
                     return
                 pre.append(node.val)
                 dfs(node.right, target, reverse)
+
         ans, pre, suc = [], [], []
         dfs(root, target, True)
         dfs(root, target, False)
