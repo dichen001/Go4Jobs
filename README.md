@@ -30,18 +30,18 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 13  | 14  | 15  | 16 :sweat:(+1) | 17 :exclamation: Mock MTV(+1) | 18 :sweat:(+3) | 19 复习+刷题 (+8) |
-| 20 断舍离啊(+5) | 21 (+10) 状态不错 | 22 Yelp OA (+5) | 23 FB response (+11) | 24 FB PI 确定 (+9)  | 25 Yelp PI 通知 (+16) | 26 婷姐🎂 (+4) |
-| 27 (+19) | 28  | 29  | 30  | 31  | 1   | 2   |
+| 20 断舍离啊(+5) | 21 (+10) 状态不错 | 22 Yelp OA (+5) | 23 FB response (+11) | 24 FB PI 确定 (+9)  | 25 Yelp PI 通知 (+16) | 26 婷姐🎂 (+4) skyline |
+| 27 (+19) UF, BST | 28 (+8) BFS+UF+State Mechine 不刷做过的题了，做过的直接回想思路  | 29  | 30  | 31  | 1   | 2   |
 | 3   | 4 :airplane:  | 5  :phone:FB | 6   | 7 :triangular_flag_on_post: NYC 面试 | 8  :helicopter: | 9    | 
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 
-137/640 Solved - Easy 20 Medium 59 Hard 58
+141/640 Solved - Easy 2 Medium 61 Hard 58
 - Google
-  - You have solved  99/ 202 problems.
+  - You have solved  101/ 202 problems.
 - Facebook
-  - You have solved  51/ 105 problems
+  - You have solved  53/ 105 problems
 - Yelp
   - You have solved  7/ 17 problems.
 
