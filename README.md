@@ -53,6 +53,8 @@ Thoughts:
 - BFS is more efficient when tracking levels (need lowest levels)
 - DP rocks when the solution space is small compared to question space. Especially when the dp function could be written.
 
+- Back**tracing** is just DFS, but make sure you find out the things to **track**
+
 
 ## Jerry
 ### 09/2016
