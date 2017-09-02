@@ -37,6 +37,23 @@ class Solution(object):
         :type k: int
         :rtype: List[List[int]]
         """
+        # O(Klog(K))  Only need to maintain a Q of length K.
+        ans = []
+        if not nums1 or not nums2:
+            return ans
+        Q = [(n + nums2[0], n, nums2[0], 0) for n in nums1[:k]]
+        heapify(Q)
+        for _ in range(k):
+            if not Q:
+                return ans
+            n12, n1, n2, i2 = heappop(Q)
+            ans.append([n1, n2])
+            if i2 == len(nums2) - 1:
+                continue
+            heappush(Q, (n1 + nums2[i2 + 1], n1, nums2[i2 + 1], i2+1))
+        return ans
+
+        # brute force
         queue = [(m+n, m ,n) for m in nums1 for n in nums2]
         heapify(queue)
         ans = []
