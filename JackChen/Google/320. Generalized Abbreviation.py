@@ -4,17 +4,19 @@ class Solution(object):
         :type word: str
         :rtype: List[str]
         """
-        def backtrack(i, cur, count):
-            if i == n:
-                cur += str(count) if count else ''
-                ans.append(cur)
-            else:
-                backtrack(i+1, cur + str(count) + word[i] if count else cur + word[i], 0)
-                backtrack(i+1, cur, count + 1)
 
-        ans, n = [], len(word)
-        backtrack(0,'',0)
+        def backtrack(cur, pos, cnt):
+            if pos == len(word):
+                ans.append(cur if cnt == 0 else cur + str(cnt))
+            else:
+                backtrack(cur, pos + 1, cnt + 1)
+                backtrack(cur + ("" if cnt == 0 else str(cnt)) + word[pos], pos + 1, 0)
+
+        ans = []
+        backtrack("", 0, 0)
         return ans
+
+
 
         n = len(word)
         ans = []

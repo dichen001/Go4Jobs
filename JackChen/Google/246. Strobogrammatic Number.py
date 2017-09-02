@@ -12,6 +12,13 @@ class Solution(object):
         :type num: str
         :rtype: bool
         """
+        mem = {6: 9, 9: 6, 0: 0, 8: 8, 1: 1}
+        N = len(num)
+        for i, n in enumerate(num[:N / 2]):
+            if n not in mem or num[n - 1 - i] != mem[n]:
+                return False
+        return True
+
         valids = {'0','1','6','8','9'}
         updown = []
         for n in num:
@@ -24,3 +31,6 @@ class Solution(object):
             else:
                 updown.append(n)
         return num == ''.join(updown[::-1])
+
+s = Solution()
+s.isStrobogrammatic([])

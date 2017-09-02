@@ -4,6 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
+        # brute force #2: 40%
+        # O(N^2)
+        r = s[::-1]
+        for i in range(len(s)):
+            if s.startswith(r[i:]):
+                return r[:i] + s
+
+        return s
+
         ans = s[::-1] + s
         for i in range(len(s))[::-1]:
             l, r = s[:i], s[i:]

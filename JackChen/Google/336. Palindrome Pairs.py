@@ -20,6 +20,23 @@ class Solution(object):
         :type words: List[str]
         :rtype: List[List[int]]
         """
+        # O(N * M^2) where N = number of words, M = len(word)
+        ans = []
+        mem = {w: i for i, w in enumerate(words)}
+        for i, w in enumerate(words):
+            for k in range(len(w) + 1):
+
+                l, r = w[:k], w[k:]
+                l_rev, r_rev = l[::-1], r[::-1]
+                if l == l_rev and r_rev in mem and mem[r_rev] != i:
+                    ans.append([mem[r_rev], i])
+                if len(r) != 0 and r == r_rev and l_rev in mem and mem[l_rev] != i:
+                    ans.append([i, mem[l_rev]])
+        return ans
+
+
+
+
         ans, mem = [], {w: i for i, w in enumerate(words)}
         for i, w in enumerate(words):
             for j in range(len(w) + 1):

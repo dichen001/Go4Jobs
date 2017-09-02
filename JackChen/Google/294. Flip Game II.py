@@ -32,7 +32,7 @@ class Solution(object):
 
 
         n = len(s)
-        mem = {}
+        mem = {}re
         pos = (i for i in range(n) if s[i] == '+')
         return win(pos)
 

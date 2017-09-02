@@ -45,16 +45,18 @@ class Solution(object):
         count = 0
         for d in data:
             if count == 0:
-                if d >> 5 == 6: #110
+                if d >> 7 == 0:
+                    count = 0
+                elif d >> 5 == 6:  # 110
                     count = 1
-                elif d >> 4 == 14: #1110
+                elif d >> 4 == 14:  # 1110
                     count = 2
-                elif d >> 3 == 30: #11110
+                elif d >> 3 == 30:  # 11110
                     count = 3
-                elif d >> 7 != 0:
+                else:
                     return False
             else:
-                if d >> 6 != 2:
+                if d >> 6 != 2:  # 10
                     return False
                 count -= 1
         return count == 0
