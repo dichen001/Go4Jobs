@@ -37,7 +37,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 
-188/640 Solved - Easy 35 Medium 92 Hard 62
+189/640 Solved - Easy 35 Medium 92 Hard 62
 - Google
   - You have solved  131/ 205 problems.
 - Facebook
