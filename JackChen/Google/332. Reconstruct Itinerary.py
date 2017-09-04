@@ -6,17 +6,23 @@ class Solution(object):
         :type tickets: List[List[str]]
         :rtype: List[str]
         """
-        fromTo = collections.defaultdict(list)
-        for t in sorted(tickets)[::-1]:
-            fromTo[t[0]] += [t[1]]
-        ans = []
-        stack = ['JFK']
-        while stack:
-            while fromTo[stack[-1]] != []:
-                stack += fromTo[stack[-1]].pop()
-            ans += [stack.pop()]
-        return ans[::-1]
+        # build graph
+        graph = collections.defaultdict(list)
+        for s, e in sorted(tickets):
+            graph[s] += [e]
 
+        # dfs
+        def dfs(s):
+            if not s:
+                return
+            while graph[s]:
+                dfs(graph[s].pop(0))
+            ans.append(s)
+            return False
+
+        ans = []
+        dfs("JFK")
+        return ans[::-1]
 
 
 

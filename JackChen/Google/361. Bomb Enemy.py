@@ -20,34 +20,34 @@ class Solution(object):
         :type grid: List[List[str]]
         :rtype: int
         """
-        # most intuitive version; faster but waster space
-        if not grid or not grid[0]:
-            return 0
-        m, n = len(grid), len(grid[0])
-        row_sum, col_sum = [0] * m, [0] * n
-        row_visited, col_visited = [False] * m, [False] * n
-        ans = 0
-        for i in range(m):
-            for j in range(n):
-                if grid[i][j] == "W":
-                    row_visited[i] = col_visited[j] = False
-                    row_sum[i] = col_sum[j] = 0
-                    continue
-                if not row_visited[i]:
-                    row_visited[i] = True
-                    jj = j
-                    while jj < n and grid[i][jj] != 'W':
-                        row_sum[i] += grid[i][jj] == 'E'
-                        jj += 1
-                if not col_visited[j]:
-                    col_visited[j] = True
-                    ii = i
-                    while ii < m and grid[ii][j] != 'W':
-                        col_sum[j] += grid[ii][j] == 'E'
-                        ii += 1
-                if grid[i][j] == '0':
-                    ans = max(ans, row_sum[i] + col_sum[j])
-        return ans
+        # # most intuitive version; faster but waster space
+        # if not grid or not grid[0]:
+        #     return 0
+        # m, n = len(grid), len(grid[0])
+        # row_sum, col_sum = [0] * m, [0] * n
+        # row_visited, col_visited = [False] * m, [False] * n
+        # ans = 0
+        # for i in range(m):
+        #     for j in range(n):
+        #         if grid[i][j] == "W":
+        #             row_visited[i] = col_visited[j] = False
+        #             row_sum[i] = col_sum[j] = 0
+        #             continue
+        #         if not row_visited[i]:
+        #             row_visited[i] = True
+        #             jj = j
+        #             while jj < n and grid[i][jj] != 'W':
+        #                 row_sum[i] += grid[i][jj] == 'E'
+        #                 jj += 1
+        #         if not col_visited[j]:
+        #             col_visited[j] = True
+        #             ii = i
+        #             while ii < m and grid[ii][j] != 'W':
+        #                 col_sum[j] += grid[ii][j] == 'E'
+        #                 ii += 1
+        #         if grid[i][j] == '0':
+        #             ans = max(ans, row_sum[i] + col_sum[j])
+        # return ans
 
         # optimized version.
         if not grid or not grid[0]:
@@ -69,10 +69,10 @@ class Solution(object):
                     while ii < m and grid[ii][j] != 'W':
                         col_sum[j] += grid[ii][j] == 'E'
                         ii += 1
-                if grid[i][j] == '0':
+                if grid[i][j] in 'E0':
                     ans = max(ans, row_sum + col_sum[j])
         return ans
 
 
 s = Solution()
-s.maxKilledEnemies(["0E00","E0WE","0E00"])
+s.maxKilledEnemies(["0E00","EEWE","0E00"])

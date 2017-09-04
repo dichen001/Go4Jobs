@@ -52,6 +52,20 @@ class Solution(object):
         :type seqs: List[List[int]]
         :rtype: bool
         """
+
+        "easier solution"
+        idx = {n: i for i, n in enumerate([None] + org)}
+        pairs = set(zip([None] + org, org))
+        for seq in seqs:
+            for a, b in zip([None] + seq, seq):
+                if idx.get(a, -1) >= idx.get(b, -1):
+                    return False
+                pairs.discard((a, b))
+        return not pairs
+
+
+
+        "longer solution"
         # build topo first
         topo, in_degree = collections.defaultdict(set), collections.defaultdict(int)
         all_nodes = set()
