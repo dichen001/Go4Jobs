@@ -32,18 +32,18 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 13  | 14  | 15  | 16 :sweat:(+1) | 17 :exclamation: Mock MTV(+1) | 18 :sweat:(+3) | 19 复习+刷题 (+8) |
 | 20 断舍离啊(+5) | 21 (+10) 状态不错 | 22 Yelp OA (+5) | 23 FB response (+11) | 24 FB PI 确定 (+9)  | 25 Yelp PI 通知 (+16) | 26 婷姐🎂 (+4) skyline |
 | 27 (+19) UF, BST | 28 (+8) BFS+UF+State Mechine 不刷做过的题了，做过的直接回想思路  | 29 DP+BFS (+11) | 30 Palindrome + Backtracking (+15) | 31 (+12) 收到 Bloomberg Uber | 1 (+6) 被LinkedIn简历拒 | 2  (+8) |
-| 3 (+18)看FB面经 | 4 :airplane: NYC喝酒撸串(+9) | 5  :phone:FB | 6   | 7 :triangular_flag_on_post: NYC 面试 | 8  :helicopter: | 9    | 
+| 3 (+18)看FB面经 | 4 :airplane: NYC喝酒撸串(+9) | 5  :phone:FB 过了 (+12) | 6   | 7 :triangular_flag_on_post: NYC 面试 | 8  :helicopter: | 9    | 
 | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18 :phone:BB | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 
-207/640 Solved - Easy 40 Medium 103 Hard 64
+216/648 Solved - Easy 45 Medium 107 Hard 64
 - Google
-  - You have solved  143/ 205 problems.
+  - You have solved  146/ 205 problems.
 - Facebook
-  - You have solved  79/ 105 problem  s.
+  - You have solved  84/ 105 problem  s.
 - Yelp
-  - You have solved  9/ 17 problems.
+  - You have solved  10/ 17 problems.
   
 Thoughts:
 (279, 377)
