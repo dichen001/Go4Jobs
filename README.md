@@ -33,7 +33,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 20 断舍离啊(+5) | 21 (+10) 状态不错 | 22 Yelp OA (+5) | 23 FB response (+11) | 24 FB PI 确定 (+9)  | 25 Yelp PI 通知 (+16) | 26 婷姐🎂 (+4) skyline |
 | 27 (+19) UF, BST | 28 (+8) BFS+UF+State Mechine 不刷做过的题了，做过的直接回想思路  | 29 DP+BFS (+11) | 30 Palindrome + Backtracking (+15) | 31 (+12) 收到 Bloomberg Uber | 1 (+6) 被LinkedIn简历拒 | 2  (+8) |
 | 3 (+18)看FB面经 | 4 :airplane: NYC喝酒撸串(+9) | 5  :phone:FB 过了 (+12) | 6 (+3)为啥又浪了一天？| 7 :triangular_flag_on_post: G@NYC 都做出来了 (+2) | 8 喝酒:wine_glass::beers::cocktail:(-$400) | 9  :helicopter: +(0) | 
-| 10 (+10) | 11 :phone:Yelp(+8) | 12 上课(+0) | 13  | 14  | 15 :phone:Uber| 16  |
+| 10 (+10) | 11 :phone:Yelp(+8) | 12 上课(+0) | 13 (+3)不能再浪了。。 | 14 没时间了啊！！ | 15 :phone:Uber| 16  |
 | 17  | 18 :phone:BB | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 
@@ -46,7 +46,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |
 
-216/648 Solved - Easy 48 Medium 111 Hard 65
+229/648 Solved - Easy 49 Medium 113 Hard 67
 - Google
   - You have solved  147/ 205 problems.
 - **Facebook**
@@ -54,7 +54,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 - **Bloomberg**
   - **You have solved  31/ 65 problems.**
 - **Uber**
-  - **You have solved  29/ 50 problems.**
+  - **You have solved  34/ 50 problems.**
 - Yelp
   - You have solved  17/ 17 problems.
   
