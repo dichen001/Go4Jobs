@@ -229,9 +229,9 @@ if __name__ == '__main__':
 
     F_final = {}
     for name, learner in learners.iteritems():
-        F_final[name] = cross_val(clf=learner, data=vectors, label=labels, target_label=1, iterations=5, folds=10, issmote='no')
+        F_final[name] = cross_val(clf=learner, data=vectors, label=labels, target_label=1, iterations=5, folds=10, issmote='smote')
 
-    with open(os.path.join(base_dir, 'no_smote_performance.pickle'), 'wb') as handle:
+    with open(os.path.join(base_dir, 'w_smote_performance.pickle'), 'wb') as handle:
         pickle.dump(F_final, handle)
 
     print(F_final)
