@@ -21,6 +21,19 @@ class Solution(object):
         :type target: int
         :rtype: List[List[int]]
         """
+        def dfs(path, cur, s):
+            if cur == target:
+                ans.append(path)
+            elif cur < target:
+                for i, n in enumerate(candidates[s:], s):
+                    dfs(path + [n], cur + n, i)
+
+        ans = []
+        dfs([], 0, 0)
+        return ans
+
+
+
         def backtrack(tmp, start, end, target):
             if target == 0:
                 ans.append(tmp[:])
@@ -33,3 +46,6 @@ class Solution(object):
         candidates.sort(reverse= True)
         backtrack([], 0, len(candidates), target)
         return ans
+
+s = Solution()
+s.combinationSum([2,3,6,7], 7)

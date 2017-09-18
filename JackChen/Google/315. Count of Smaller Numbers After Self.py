@@ -35,3 +35,8 @@ class Solution(object):
         answer = [0] * len(nums)
         mergesort(list(enumerate(nums)))
         return answer
+
+
+for i, x, y in enumerate([(1,2), (3,4)]):
+    print x
+    print y

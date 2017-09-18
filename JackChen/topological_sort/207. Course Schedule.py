@@ -6,6 +6,21 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
+        ans, graph, indegree = 0, {}, {}
+        for a, b in prerequisites:
+            graph[a] = graph.get(a, []) + [b]
+            indegree[b] = indegree.get(b, 0) + 1
+        queue = collections.deque([i for i in range(numCourses) if i not in indegree])
+        while queue:
+            t = queue.popleft()
+            ans += 1
+            for take in graph.get(t, []):
+                indegree[take] -= 1
+                if indegree[take] == 0:
+                    queue += [take]
+        return ans == numCourses
+
+
         "BFS Solution: Keep track of in_degree"
         # build graph
         graph = collections.defaultdict(set)
@@ -54,7 +69,7 @@ class Solution(object):
         return True
         
     
-                
+s = Solution()
+s.canFinish(2,[[1, 0]])
                     
         
-            
