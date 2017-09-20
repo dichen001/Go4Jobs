@@ -32,16 +32,16 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 13  | 14  | 15  | 16 :sweat:(+1) | 17 :exclamation: Mock MTV(+1) | 18 :sweat:(+3) | 19 复习+刷题 (+8) |
 | 20 断舍离啊(+5) | 21 (+10) 状态不错 | 22 Yelp OA (+5) | 23 FB response (+11) | 24 FB PI 确定 (+9)  | 25 Yelp PI 通知 (+16) | 26 婷姐🎂 (+4) skyline |
 | 27 (+19) UF, BST | 28 (+8) BFS+UF+State Mechine 不刷做过的题了，做过的直接回想思路  | 29 DP+BFS (+11) | 30 Palindrome + Backtracking (+15) | 31 (+12) 收到 Bloomberg Uber | 1 (+6) 被LinkedIn简历拒 | 2  (+8) |
-| 3 (+18)看FB面经 | 4 :airplane: NYC喝酒撸串(+9) | 5  :phone:FB 过了 (+12) | 6 (+3)为啥又浪了一天？| 7 :triangular_flag_on_post: G@NYC 都做出来了 (+2) | 8 喝酒:wine_glass::beers::cocktail:(-$400) | 9  :helicopter: +(0) | 
+| 3 (+18)看FB面经 | 4 :airplane: NYC喝酒撸串(+9) | 5  :phone:FB 过了 (+12) | 6 (+3)为啥又浪了一天？| 7 :triangular_flag_on_post: G@NYC 都做出来了 (+2) | 8 喝酒:wine_glass::beers::cocktail:(-$400) | 9  :helicopter:回村 +(0) | 
 | 10 (+10) | 11 :phone:Yelp(+8) | 12 上课(+0) | 13 (+3)不能再浪了。。 | 14 +8 | 15 :phone:Uber好麻烦... |16 Uber takehome |
-| 17 Uber takehome | 18 :phone:BB | 19  | 20  | 21  | 22  | 23  |
-| 24  | 25  | 26  | 27  | 28  | 29  | 30  |
+| 17 Uber takehome | 18 :phone:BB | 19 BB过了(+2) | 20  | 21  | 22  | 23  |
+| 24  | 25  | 26  | 27 :scream:考试 | 28  | 29 :airplane:飞三番 | 30  |
 
 ### 10/2017
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
-| 1   | 2 :triangular_flag_on_post: FB@MPK  | 3   | 4   | 5   | 6   | 7   | 
-| 8   | 9   | 10  | 11  | 12  | 13  | 14  |
+| 1   | 2 :triangular_flag_on_post: FB@MPK  | 3 :helicopter: 凌晨回村 :scream:早上考试 :airplane:下午飞纽约 | 4 :triangular_flag_on_post: BB@NYC  | 5 :maple_leaf: 水牛城 | 6 :maple_leaf: 尼亚加拉瀑布 | 7 :maple_leaf: 波士顿 | 
+| 8 :maple_leaf: 波士顿 :helicopter: 回村  | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |
@@ -50,7 +50,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 - Google
   - You have solved  148/ 205 problems.
 - **Facebook**
-  - **You have solved  84/ 106 problems.**
+  - **You have solved  86/ 106 problems.**
 - **Bloomberg**
   - **You have solved  33/ 65 problems.**
 - **Uber**
