@@ -34,7 +34,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 27 (+19) UF, BST | 28 (+8) BFS+UF+State Mechine 不刷做过的题了，做过的直接回想思路  | 29 DP+BFS (+11) | 30 Palindrome + Backtracking (+15) | 31 (+12) 收到 Bloomberg Uber | 1 (+6) 被LinkedIn简历拒 | 2  (+8) |
 | 3 (+18)看FB面经 | 4 :airplane: NYC喝酒撸串(+9) | 5  :phone:FB 过了 (+12) | 6 (+3)为啥又浪了一天？| 7 :triangular_flag_on_post: G@NYC 都做出来了 (+2) | 8 喝酒:wine_glass::beers::cocktail:(-$400) | 9  :helicopter:回村 +(0) | 
 | 10 (+10) | 11 :phone:Yelp(+8) | 12 Yelp跪了(+0) | 13 (+3)不能再浪了。。 | 14 +8 | 15 :phone:Uber好麻烦... |16 Uber takehome |
-| 17 Uber takehome | 18 :phone:BB | 19 BB过了(+2) | 20 收到Pinterest OA(+4) | 21 Uber被拒(+7) | 22  | 23  |
+| 17 Uber takehome | 18 :phone:BB | 19 BB过了(+2) | 20 收到Pinterest OA(+4) | 21 Uber被拒(+7) | 22 谷歌被拒 | 23  |
 | 24  | 25  | 26  | 27 :scream:考试 | 28  | 29 :airplane:飞三番 | 30  |
 
 ### 10/2017
