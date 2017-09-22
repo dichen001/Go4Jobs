@@ -53,10 +53,10 @@ Keep you motivated. Make progress everyday. Get your dream job.
   - **You have solved  97/ 109 problems.**
 - **Bloomberg**
   - **You have solved  33/ 65 problems.**
-- Uber Take-home 悲剧
-  - You have solved  42/ 50 problems.
-- Yelp 电面悲剧
-  - You have solved  17/ 17 problems.
+- Uber Take-home 悲剧 
+  - You have solved  42/ 50 problems.
+- Yelp 电面悲剧 
+  - You have solved  17/ 17 problems.
   
 Thoughts:
 (279, 377)
