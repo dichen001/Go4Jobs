@@ -58,4 +58,4 @@ class Solution(object):
 
 
 s = Solution()
-s.minWindow("ADOBECODEBANC", "ABCC")
+print s.minWindow("ADOBECODEBANC", "ABC")

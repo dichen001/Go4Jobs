@@ -30,6 +30,22 @@ class Solution(object):
         :rtype: int
         """
         MOD = 10 ** 9 + 7
+        single, start_1, start_2 = 1, 0, 0
+        for c in s:
+            if c == "*":
+                n_single = single * 9 + start_1 * 9 + start_2 * 6
+                n_start_1 = single
+                n_start_2 = single
+            else:
+                n_single = single * (c != '0') + start_1 + start_2 * (c <= "6")
+                n_start_1 = single if c == '1' else 0
+                n_start_2 = single if c == '2' else 0
+            print n_single % MOD, n_start_1, n_start_2
+            single, start_1, start2 = n_single % MOD, n_start_1, n_start_2
+
+        print "************"
+
+        MOD = 10 ** 9 + 7
         #*, 1*, 2*
         e0, e1, e2 = 1, 0, 0
         for c in s:
@@ -48,5 +64,9 @@ class Solution(object):
                 f1 = (c == "1") * e0
                 # next e2, which is f2, is implying c == 2
                 f2 = (c == "2") * e0
+            print f0 % MOD, f1, f2
             e0, e1, e2 = f0 % MOD, f1, f2
         return e0
+
+s = Solution()
+s.numDecodings("1232321234")
