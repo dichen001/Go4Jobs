@@ -43,7 +43,7 @@ Keep you motivated. Make progress everyday. Get your dream job.
 | 1 Stanford & Boiling Crab  | 2 :triangular_flag_on_post: FB@MPK | 3 :helicopter: 凌晨回村 :scream:早上考试 :airplane:下午飞纽约 | 4 :triangular_flag_on_post: BB@NYC  | 5 :maple_leaf: 费城 :phone:Pin Manager | 6 :maple_leaf: Buffalo | 7 :ocean: Niagra Falls | 
 | 8 :maple_leaf: NYC :helicopter: 回村  | 9 :phone:IMO   | 10 | 11 :broken_heart:BB悲剧 | 12  | 13 :phone: Pin Tech| 14 焦急 |
 | 15 想哭 | 16 FB offer :sunny: | 17  | 18 :phone: MS | 19  | 20  | 21  |
-| 22  | 23 :triangular_flag_on_post:IMO | 24  | 25  | 26  | 27  | 28  |
+| 22 :airplane: 飞三番 | 23 :triangular_flag_on_post:IMO | 24 :helicopter: 回村  | 25  | 26  | 27  | 28  |
 | 29  | 30  | 31  |     |     |
 
 `Total:` 264/656  `Easy` 61/186 `Medium` 132/341 `Hard:` 71/129 
